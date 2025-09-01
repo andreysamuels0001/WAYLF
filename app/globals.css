@@ -1,11 +1,205 @@
 @import "tailwindcss";
 
+/**
+ * WAYLF design system.
+ *
+ * Dark-first: the product is a gallery of glowing cards, and a light shell would
+ * fight the artwork for attention. Surfaces step up in lightness rather than
+ * using borders alone, so depth survives on cheap panels.
+ */
+@theme {
+  --color-void: #06060d;
+  --color-abyss: #0a0a16;
+  --color-surface: #11111f;
+  --color-surface-2: #181829;
+  --color-surface-3: #212136;
+  --color-line: #2b2b45;
+  --color-line-bright: #3b3b5c;
+
+  --color-ink: #f4f3ff;
+  --color-ink-muted: #a8a7c4;
+  --color-ink-faint: #6f6e8e;
+
+  --color-flare: #ff5a3c;
+  --color-flare-soft: #ff8a6e;
+  --color-gold: #ffd166;
+  --color-violet: #a78bfa;
+  --color-cyan: #37d4e0;
+  --color-jade: #3fd48e;
+  --color-rose: #ff6ba6;
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SF Mono", monospace;
+  /* Used for epithets and pull quotes — a deliberate italic serif accent. */
+  --font-serif: "Georgia", "Iowan Old Style", "Times New Roman", serif;
+
+  --radius-card: 1.25rem;
+
+  --shadow-lift: 0 1px 0 0 rgb(255 255 255 / 0.04) inset, 0 18px 40px -16px rgb(0 0 0 / 0.8);
+  --shadow-deep: 0 30px 70px -24px rgb(0 0 0 / 0.9);
+
+  --ease-out-soft: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
 :root {
   color-scheme: dark;
 }
 
+* {
+  border-color: var(--color-line);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
 body {
-  background-color: #06060d;
-  color: #f4f3ff;
+  background-color: var(--color-void);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Ambient page wash. Fixed so it never scrolls away from the content. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background:
+    radial-gradient(60rem 40rem at 15% -10%, rgb(167 139 250 / 0.14), transparent 60%),
+    radial-gradient(50rem 36rem at 90% 0%, rgb(255 90 60 / 0.12), transparent 62%),
+    radial-gradient(70rem 50rem at 50% 110%, rgb(55 212 224 / 0.08), transparent 65%);
+}
+
+::selection {
+  background: rgb(167 139 250 / 0.35);
+  color: var(--color-ink);
+}
+
+/* Scrollbars: thin and dark so panels don't get a bright stripe down the side. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line-bright) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--color-line-bright);
+  border-radius: 999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background-color: #4a4a72;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@layer utilities {
+  /* Hairline border that reads on both dark surfaces and glowing artwork. */
+  .ring-hairline {
+    box-shadow: 0 0 0 1px rgb(255 255 255 / 0.07);
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .text-pretty {
+    text-wrap: pretty;
+  }
+
+  /* Glass panel used by the studio rails and nav. */
+  .panel {
+    background:
+      linear-gradient(180deg, rgb(255 255 255 / 0.045), rgb(255 255 255 / 0.012)),
+      var(--color-surface);
+    border: 1px solid var(--color-line);
+    backdrop-filter: blur(14px);
+  }
+
+  /* Foil sweep for premium cards. Driven by --foil on the element. */
+  .foil::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    opacity: var(--foil, 0.3);
+    background: linear-gradient(
+      105deg,
+      transparent 32%,
+      rgb(255 255 255 / 0.5) 46%,
+      rgb(255 255 255 / 0.1) 52%,
+      transparent 64%
+    );
+    background-size: 240% 100%;
+    background-position: var(--foil-pos, 120%) 0;
+    transition: background-position 0.15s linear;
+    mix-blend-mode: overlay;
+  }
+
+  .animate-float {
+    animation: forge-float 7s var(--ease-out-soft) infinite;
+  }
+
+  .animate-shimmer {
+    animation: forge-shimmer 3.4s linear infinite;
+  }
+
+  .animate-pulse-glow {
+    animation: forge-pulse 3.2s ease-in-out infinite;
+  }
+}
+
+@keyframes forge-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes forge-shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -100% 0;
+  }
+}
+
+@keyframes forge-pulse {
+  0%,
+  100% {
+    opacity: 0.55;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
