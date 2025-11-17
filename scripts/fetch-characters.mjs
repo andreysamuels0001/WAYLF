@@ -13,6 +13,7 @@
 import { writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
+import sharp from "sharp";
 
 const ENDPOINT = "https://graphql.anilist.co";
 const OUT = path.join(process.cwd(), "data", "characters.json");
@@ -57,6 +58,81 @@ function cleanDescription(raw) {
     .replace(/\s+/g, " ")
     .trim()
     .slice(0, 420);
+}
+
+/**
+ * Dominant palette for a character's artwork.
+ *
+ * AniList carries no structured appearance data — no hair colour, no eye colour
+ * — so the only honest way to make a colour question match a real character is
+ * to read the colours out of their actual art. Pixels are bucketed into a coarse
+ * RGB grid and the busiest buckets win; near-white and near-black are dropped
+ * because almost every portrait is mostly background and line art.
+ */
+async function extractPalette(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+    const source = Buffer.from(await response.arrayBuffer());
+
+    const { data, info } = await sharp(source)
+      .resize(48, 48, { fit: "cover" })
+      .removeAlpha()
+      .raw()
+      .toBuffer({ resolveWithObject: true });
+
+    const buckets = new Map();
+    let luminanceTotal = 0;
+    let counted = 0;
+
+    for (let i = 0; i < data.length; i += info.channels) {
+      const r = data[i];
+      const g = data[i + 1];
+      const b = data[i + 2];
+
+      const max = Math.max(r, g, b);
+      const min = Math.min(r, g, b);
+      luminanceTotal += (0.2126 * r + 0.7152 * g + 0.0722 * b) / 255;
+      counted += 1;
+
+      // Drop washed-out and near-black pixels: they are background and ink.
+      if (max < 38 || min > 228 || max - min < 22) continue;
+
+      const key = `${r >> 5}|${g >> 5}|${b >> 5}`;
+      const bucket = buckets.get(key) ?? { r: 0, g: 0, b: 0, n: 0 };
+      bucket.r += r;
+      bucket.g += g;
+      bucket.b += b;
+      bucket.n += 1;
+      buckets.set(key, bucket);
+    }
+
+    const top = [...buckets.values()]
+      .sort((a, b) => b.n - a.n)
+      .slice(0, 3)
+      .map((bucket) => {
+        const hex = (v) => Math.round(v / bucket.n).toString(16).padStart(2, "0");
+        return `#${hex(bucket.r)}${hex(bucket.g)}${hex(bucket.b)}`;
+      });
+
+    if (top.length === 0) return null;
+    return { palette: top, brightness: Number((luminanceTotal / Math.max(counted, 1)).toFixed(3)) };
+  } catch {
+    return null;
+  }
+}
+
+/** Bounded worker pool — 500 sequential image fetches would take far too long. */
+async function pool(items, size, worker) {
+  let cursor = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(size, items.length) }, async () => {
+      while (cursor < items.length) {
+        const index = cursor++;
+        await worker(items[index], index);
+      }
+    }),
+  );
 }
 
 async function fetchPage(page, attempt = 0) {
@@ -132,6 +208,16 @@ async function main() {
     // Stay well inside the published rate limit.
     await new Promise((resolve) => setTimeout(resolve, 750));
   }
+
+  console.log("\nReading palettes from artwork…");
+  let done = 0;
+  await pool(characters, 8, async (character) => {
+    const result = await extractPalette(character.image);
+    character.palette = result?.palette ?? ["#888888"];
+    character.brightness = result?.brightness ?? 0.5;
+    done += 1;
+    if (done % 50 === 0) process.stdout.write(`  ${done}/${characters.length}\r`);
+  });
 
   const payload = {
     source: "AniList (https://anilist.co)",
