@@ -30,7 +30,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fdebc9",
+    "#02b6e7",
+    "#b2ab8f"
+   ],
+   "brightness": 0.613
   },
   {
    "id": 45627,
@@ -59,7 +65,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#f5d6ae",
+    "#46332a",
+    "#8c7068"
+   ],
+   "brightness": 0.342
   },
   {
    "id": 40,
@@ -89,7 +101,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#8d5535",
+    "#73edec",
+    "#b17149"
+   ],
+   "brightness": 0.491
   },
   {
    "id": 27,
@@ -117,7 +135,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#fde6e1",
+    "#474d70",
+    "#fbe3dd"
+   ],
+   "brightness": 0.676
   },
   {
    "id": 40882,
@@ -146,7 +170,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#ddc7ab",
+    "#925546",
+    "#d0b094"
+   ],
+   "brightness": 0.381
   },
   {
    "id": 62,
@@ -176,7 +206,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f0b171",
+    "#483216",
+    "#382a16"
+   ],
+   "brightness": 0.526
   },
   {
    "id": 417,
@@ -206,7 +242,13 @@
     "Revenge",
     "Super Power",
     "Conspiracy"
-   ]
+   ],
+   "palette": [
+    "#320c13",
+    "#fbe6c8",
+    "#4d0d1b"
+   ],
+   "brightness": 0.269
   },
   {
    "id": 88572,
@@ -238,7 +280,13 @@
     "Witch",
     "Magic",
     "Cult"
-   ]
+   ],
+   "palette": [
+    "#ac8eae",
+    "#fbe7d8",
+    "#edd2cb"
+   ],
+   "brightness": 0.72
   },
   {
    "id": 71,
@@ -267,7 +315,13 @@
     "Police",
     "Philosophy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#496f79",
+    "#4e7884",
+    "#5b8593"
+   ],
+   "brightness": 0.369
   },
   {
    "id": 87275,
@@ -298,7 +352,13 @@
     "Male Protagonist",
     "Torture",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#b3b1c7",
+    "#caabb1",
+    "#8b7690"
+   ],
+   "brightness": 0.801
   },
   {
    "id": 40881,
@@ -327,7 +387,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#b28a6e",
+    "#fbe6cb",
+    "#efd3b5"
+   ],
+   "brightness": 0.311
   },
   {
    "id": 89334,
@@ -358,7 +424,13 @@
     "Primarily Teen Cast",
     "Surreal Comedy",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#ebd9c5",
+    "#e5cfba",
+    "#f7e6d3"
+   ],
+   "brightness": 0.551
   },
   {
    "id": 422,
@@ -389,7 +461,13 @@
     "Gore",
     "Philosophy",
     "Found Family"
-   ]
+   ],
+   "palette": [
+    "#6e512f",
+    "#f4d7ad",
+    "#fcebcf"
+   ],
+   "brightness": 0.486
   },
   {
    "id": 126824,
@@ -416,7 +494,13 @@
     "Detective",
     "Conspiracy",
     "Politics"
-   ]
+   ],
+   "palette": [
+    "#09182f",
+    "#122737",
+    "#f5cfd0"
+   ],
+   "brightness": 0.628
   },
   {
    "id": 176754,
@@ -444,7 +528,13 @@
     "Medieval",
     "Found Family",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#fbf6ce",
+    "#fcecb9",
+    "#d5caaf"
+   ],
+   "brightness": 0.799
   },
   {
    "id": 34470,
@@ -473,7 +563,13 @@
     "Dystopian",
     "Primarily Adult Cast",
     "Chuunibyou"
-   ]
+   ],
+   "palette": [
+    "#50341a",
+    "#382a19",
+    "#6c3c1c"
+   ],
+   "brightness": 0.295
   },
   {
    "id": 10138,
@@ -501,7 +597,13 @@
     "Male Protagonist",
     "Philosophy",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#efb48f",
+    "#b08f70",
+    "#d3ad88"
+   ],
+   "brightness": 0.581
   },
   {
    "id": 137080,
@@ -530,7 +632,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#f8b7ae",
+    "#fdc4b7",
+    "#f6334b"
+   ],
+   "brightness": 0.514
   },
   {
    "id": 14,
@@ -561,7 +669,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f4d6c8",
+    "#d2ab94",
+    "#3a1011"
+   ],
+   "brightness": 0.365
   },
   {
    "id": 35252,
@@ -590,7 +704,13 @@
     "Dystopian",
     "Primarily Adult Cast",
     "Chuunibyou"
-   ]
+   ],
+   "palette": [
+    "#ccaa70",
+    "#b88a50",
+    "#ceb58e"
+   ],
+   "brightness": 0.523
   },
   {
    "id": 127222,
@@ -621,7 +741,13 @@
     "Coming of Age",
     "Primarily Female Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#c9a98e",
+    "#fce6d3",
+    "#cdeaf9"
+   ],
+   "brightness": 0.626
   },
   {
    "id": 127212,
@@ -649,7 +775,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fbd7c3",
+    "#f4cfb9",
+    "#8f1d22"
+   ],
+   "brightness": 0.53
   },
   {
    "id": 130102,
@@ -678,7 +810,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#f4aca3",
+    "#d7692a",
+    "#eda59c"
+   ],
+   "brightness": 0.528
   },
   {
    "id": 28,
@@ -706,7 +844,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#4c3327",
+    "#d5d08e",
+    "#e3d3ca"
+   ],
+   "brightness": 0.559
   },
   {
    "id": 89616,
@@ -737,7 +881,13 @@
     "Primarily Teen Cast",
     "Surreal Comedy",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#fae3d1",
+    "#f2dbc9",
+    "#0e1531"
+   ],
+   "brightness": 0.488
   },
   {
    "id": 137079,
@@ -766,7 +916,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#f3b2b5",
+    "#956a70",
+    "#cb9195"
+   ],
+   "brightness": 0.553
   },
   {
    "id": 120649,
@@ -795,7 +951,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#fce6d5",
+    "#f7daca",
+    "#2f1213"
+   ],
+   "brightness": 0.528
   },
   {
    "id": 85,
@@ -826,7 +988,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#929677",
+    "#f7e8d4",
+    "#4e533c"
+   ],
+   "brightness": 0.418
   },
   {
    "id": 90169,
@@ -854,7 +1022,13 @@
     "War",
     "Work",
     "Orphan"
-   ]
+   ],
+   "palette": [
+    "#f2cbb6",
+    "#d0b0aa",
+    "#ae9399"
+   ],
+   "brightness": 0.716
   },
   {
    "id": 80,
@@ -883,7 +1057,13 @@
     "Police",
     "Philosophy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#2e170a",
+    "#caa592",
+    "#4b2e17"
+   ],
+   "brightness": 0.32
   },
   {
    "id": 11,
@@ -912,7 +1092,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#f3c797",
+    "#e3bc26",
+    "#d5af2f"
+   ],
+   "brightness": 0.515
   },
   {
    "id": 17,
@@ -943,7 +1129,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#d9a88d",
+    "#90682e",
+    "#b78a76"
+   ],
+   "brightness": 0.518
   },
   {
    "id": 126071,
@@ -973,7 +1165,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f8b48b",
+    "#f49269",
+    "#fbc39b"
+   ],
+   "brightness": 0.461
   },
   {
    "id": 500,
@@ -1002,7 +1200,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#51274a",
+    "#8a5492",
+    "#ffe4cf"
+   ],
+   "brightness": 0.481
   },
   {
    "id": 133676,
@@ -1031,7 +1235,13 @@
     "Primarily Teen Cast",
     "Female Protagonist",
     "Gyaru"
-   ]
+   ],
+   "palette": [
+    "#d4a994",
+    "#f4cfd1",
+    "#efc7ae"
+   ],
+   "brightness": 0.774
   },
   {
    "id": 126635,
@@ -1059,7 +1269,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fcf1d6",
+    "#3c2a49",
+    "#fef8e2"
+   ],
+   "brightness": 0.4
   },
   {
    "id": 6356,
@@ -1087,7 +1303,13 @@
     "Shounen",
     "Cultivation",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#efd0d2",
+    "#4f2b2a",
+    "#2f122e"
+   ],
+   "brightness": 0.394
   },
   {
    "id": 89220,
@@ -1115,7 +1337,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#f9d3b6",
+    "#0f1334",
+    "#01bce6"
+   ],
+   "brightness": 0.522
   },
   {
    "id": 89361,
@@ -1144,7 +1372,13 @@
     "Ensemble Cast",
     "Slapstick",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#6e524b",
+    "#51372d",
+    "#6f4d32"
+   ],
+   "brightness": 0.386
   },
   {
    "id": 13020,
@@ -1172,7 +1406,13 @@
     "Male Protagonist",
     "Philosophy",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#efb7a4",
+    "#ef8957",
+    "#906d55"
+   ],
+   "brightness": 0.542
   },
   {
    "id": 88575,
@@ -1204,7 +1444,13 @@
     "Witch",
     "Magic",
     "Cult"
-   ]
+   ],
+   "palette": [
+    "#9bb4eb",
+    "#a7c4fa",
+    "#b595ca"
+   ],
+   "brightness": 0.748
   },
   {
    "id": 89198,
@@ -1233,7 +1479,13 @@
     "Male Protagonist",
     "Classic Literature",
     "Yakuza"
-   ]
+   ],
+   "palette": [
+    "#fcebcc",
+    "#ecd4b5",
+    "#ad2a2d"
+   ],
+   "brightness": 0.467
   },
   {
    "id": 88892,
@@ -1261,7 +1513,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#eed4ce",
+    "#6e504c",
+    "#936e69"
+   ],
+   "brightness": 0.528
   },
   {
    "id": 121103,
@@ -1290,7 +1548,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#eeced4",
+    "#edd1e8",
+    "#d3b8cd"
+   ],
+   "brightness": 0.783
   },
   {
    "id": 126375,
@@ -1319,7 +1583,13 @@
     "Male Protagonist",
     "School",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#d0362b",
+    "#f55649",
+    "#f28f72"
+   ],
+   "brightness": 0.581
   },
   {
    "id": 672,
@@ -1348,7 +1618,13 @@
     "Slapstick",
     "Surreal Comedy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#eddcb1",
+    "#f1e2b9",
+    "#c7773a"
+   ],
+   "brightness": 0.598
   },
   {
    "id": 123212,
@@ -1375,7 +1651,13 @@
     "Survival",
     "Female Harem",
     "Human Experimentation"
-   ]
+   ],
+   "palette": [
+    "#a97376",
+    "#8fd3e8",
+    "#f2cfb8"
+   ],
+   "brightness": 0.595
   },
   {
    "id": 124382,
@@ -1406,7 +1688,13 @@
     "Primarily Teen Cast",
     "Dystopian",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#5975ac",
+    "#eed3ca",
+    "#344f71"
+   ],
+   "brightness": 0.544
   },
   {
    "id": 88573,
@@ -1438,7 +1726,13 @@
     "Witch",
     "Magic",
     "Cult"
-   ]
+   ],
+   "palette": [
+    "#fff2e2",
+    "#f9ead9",
+    "#76655b"
+   ],
+   "brightness": 0.757
   },
   {
    "id": 124142,
@@ -1467,7 +1761,13 @@
     "Shounen",
     "Urban Fantasy",
     "Environmental"
-   ]
+   ],
+   "palette": [
+    "#eed0b8",
+    "#f7e9d2",
+    "#f3dac5"
+   ],
+   "brightness": 0.709
   },
   {
    "id": 30,
@@ -1495,7 +1795,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#f9caa8",
+    "#f0b693",
+    "#8b5112"
+   ],
+   "brightness": 0.425
   },
   {
    "id": 305,
@@ -1525,7 +1831,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f6cdb3",
+    "#680612",
+    "#b4886d"
+   ],
+   "brightness": 0.662
   },
   {
    "id": 129928,
@@ -1553,7 +1865,13 @@
     "Necromancy",
     "Cultivation",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#2e150b",
+    "#fdf1b4",
+    "#e7946c"
+   ],
+   "brightness": 0.293
   },
   {
    "id": 125886,
@@ -1582,7 +1900,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#ae796c",
+    "#cf9589",
+    "#b59189"
+   ],
+   "brightness": 0.641
   },
   {
    "id": 73935,
@@ -1611,7 +1935,13 @@
     "Surreal Comedy",
     "Urban Fantasy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#fdd6a8",
+    "#fbcd9c",
+    "#935436"
+   ],
+   "brightness": 0.497
   },
   {
    "id": 61,
@@ -1641,7 +1971,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f0cbb0",
+    "#6b74b9",
+    "#2c3148"
+   ],
+   "brightness": 0.359
   },
   {
    "id": 22037,
@@ -1672,7 +2008,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#853c6e",
+    "#fdece2",
+    "#f4d0d4"
+   ],
+   "brightness": 0.526
   },
   {
    "id": 66173,
@@ -1700,7 +2042,13 @@
     "Coming of Age",
     "Ensemble Cast",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fdecd2",
+    "#f1d2b4",
+    "#e7a987"
+   ],
+   "brightness": 0.601
   },
   {
    "id": 124381,
@@ -1731,7 +2079,13 @@
     "Primarily Teen Cast",
     "Dystopian",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#f8cdd3",
+    "#f6b6c6",
+    "#f0abb6"
+   ],
+   "brightness": 0.767
   },
   {
    "id": 137081,
@@ -1760,7 +2114,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#f5d6d1",
+    "#fae3dc",
+    "#cc303c"
+   ],
+   "brightness": 0.578
   },
   {
    "id": 90107,
@@ -1789,7 +2149,13 @@
     "Ensemble Cast",
     "Super Power",
     "Shounen"
-   ]
+   ],
+   "palette": [
+    "#f9dbb7",
+    "#fee5bb",
+    "#d41386"
+   ],
+   "brightness": 0.586
   },
   {
    "id": 94,
@@ -1820,7 +2186,13 @@
     "Dystopian",
     "Denpa",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#d4301b",
+    "#e56e1c",
+    "#e67429"
+   ],
+   "brightness": 0.444
   },
   {
    "id": 121102,
@@ -1849,7 +2221,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#2a374b",
+    "#34506b",
+    "#314459"
+   ],
+   "brightness": 0.541
   },
   {
    "id": 64769,
@@ -1877,7 +2255,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#eaccaa",
+    "#cd752f",
+    "#ceb290"
+   ],
+   "brightness": 0.692
   },
   {
    "id": 129130,
@@ -1907,7 +2291,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f7dab0",
+    "#f8c994",
+    "#b0a794"
+   ],
+   "brightness": 0.545
   },
   {
    "id": 127518,
@@ -1937,7 +2327,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fcead4",
+    "#f7d3b2",
+    "#4e2f25"
+   ],
+   "brightness": 0.618
   },
   {
    "id": 5,
@@ -1965,7 +2361,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#ffc850",
+    "#fdf7d3",
+    "#f7b74f"
+   ],
+   "brightness": 0.63
   },
   {
    "id": 68,
@@ -1994,7 +2396,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#fbd7b4",
+    "#1c2a64",
+    "#ceb196"
+   ],
+   "brightness": 0.46
   },
   {
    "id": 138102,
@@ -2023,7 +2431,13 @@
     "Assassins",
     "Conspiracy",
     "Adoption"
-   ]
+   ],
+   "palette": [
+    "#172d34",
+    "#24363b",
+    "#ea4f4a"
+   ],
+   "brightness": 0.412
   },
   {
    "id": 1,
@@ -2052,7 +2466,13 @@
     "Philosophy",
     "Found Family",
     "Travel"
-   ]
+   ],
+   "palette": [
+    "#cdac67",
+    "#e9db89",
+    "#a59a3a"
+   ],
+   "brightness": 0.486
   },
   {
    "id": 4003,
@@ -2080,7 +2500,13 @@
     "Shounen",
     "Cultivation",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fdf1cf",
+    "#040d31",
+    "#fee7ae"
+   ],
+   "brightness": 0.51
   },
   {
    "id": 46494,
@@ -2109,7 +2535,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#f5d7ad",
+    "#cb914d",
+    "#e7c86f"
+   ],
+   "brightness": 0.59
   },
   {
    "id": 31,
@@ -2137,7 +2569,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#b5e6f9",
+    "#55a9cd",
+    "#cceffb"
+   ],
+   "brightness": 0.618
   },
   {
    "id": 89028,
@@ -2165,7 +2603,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#f4d7cd",
+    "#f9e1db",
+    "#b17372"
+   ],
+   "brightness": 0.495
   },
   {
    "id": 23602,
@@ -2196,7 +2640,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#915337",
+    "#ae6e3c",
+    "#c98f4a"
+   ],
+   "brightness": 0.494
   },
   {
    "id": 123962,
@@ -2225,7 +2675,13 @@
     "Shapeshifting",
     "Economics",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#d1ebf7",
+    "#b0d8ee",
+    "#043552"
+   ],
+   "brightness": 0.697
   },
   {
    "id": 71121,
@@ -2254,7 +2710,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#341815",
+    "#704d31",
+    "#243924"
+   ],
+   "brightness": 0.337
   },
   {
    "id": 129131,
@@ -2284,7 +2746,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f7b946",
+    "#fec64d",
+    "#f7b590"
+   ],
+   "brightness": 0.576
   },
   {
    "id": 133704,
@@ -2312,7 +2780,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fde7cf",
+    "#f0ceb8",
+    "#f9d8c4"
+   ],
+   "brightness": 0.579
   },
   {
    "id": 133700,
@@ -2340,7 +2814,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f5edd6",
+    "#fdf9e3",
+    "#924e25"
+   ],
+   "brightness": 0.618
   },
   {
    "id": 138100,
@@ -2369,7 +2849,13 @@
     "Assassins",
     "Conspiracy",
     "Adoption"
-   ]
+   ],
+   "palette": [
+    "#f0b6a9",
+    "#f6cbb7",
+    "#d3958c"
+   ],
+   "brightness": 0.764
   },
   {
    "id": 13,
@@ -2400,7 +2886,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f0d3d2",
+    "#d6b0a9",
+    "#6d556c"
+   ],
+   "brightness": 0.39
   },
   {
    "id": 134167,
@@ -2428,7 +2920,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f2d8cc",
+    "#165148",
+    "#13332f"
+   ],
+   "brightness": 0.486
   },
   {
    "id": 46496,
@@ -2457,7 +2955,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#f6dacf",
+    "#fae3d1",
+    "#a96d76"
+   ],
+   "brightness": 0.642
   },
   {
    "id": 84677,
@@ -2486,7 +2990,13 @@
     "Shounen",
     "Male Protagonist",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#fde5d1",
+    "#8c6f72",
+    "#6d5451"
+   ],
+   "brightness": 0.568
   },
   {
    "id": 498,
@@ -2515,7 +3025,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#51302c",
+    "#4f1417",
+    "#fef2e2"
+   ],
+   "brightness": 0.372
   },
   {
    "id": 67065,
@@ -2544,7 +3060,13 @@
     "Anti-Hero",
     "Heterosexual",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#f9dbc6",
+    "#fce5cf",
+    "#0f2731"
+   ],
+   "brightness": 0.514
   },
   {
    "id": 22036,
@@ -2575,7 +3097,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#ffe6b3",
+    "#a87c4c",
+    "#af8552"
+   ],
+   "brightness": 0.466
   },
   {
    "id": 64771,
@@ -2603,7 +3131,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#d1aa97",
+    "#e9d4ca",
+    "#d6b7a8"
+   ],
+   "brightness": 0.658
   },
   {
    "id": 257562,
@@ -2631,7 +3165,13 @@
     "Cute Girls Doing Cute Things",
     "Coming of Age",
     "Hikikomori"
-   ]
+   ],
+   "palette": [
+    "#fdb4cb",
+    "#fccdd1",
+    "#feefda"
+   ],
+   "brightness": 0.75
   },
   {
    "id": 130050,
@@ -2661,7 +3201,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#946983",
+    "#0c2d4e",
+    "#051b2d"
+   ],
+   "brightness": 0.315
   },
   {
    "id": 38005,
@@ -2692,7 +3238,13 @@
     "Time Loop",
     "Primarily Teen Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#f6e4d1",
+    "#efdbc8",
+    "#cdb7a7"
+   ],
+   "brightness": 0.463
   },
   {
    "id": 497,
@@ -2721,7 +3273,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#ecb28c",
+    "#fbf2cc",
+    "#f3d3ac"
+   ],
+   "brightness": 0.797
   },
   {
    "id": 126373,
@@ -2750,7 +3308,13 @@
     "Male Protagonist",
     "School",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#924f56",
+    "#b46a66",
+    "#d07669"
+   ],
+   "brightness": 0.572
   },
   {
    "id": 66171,
@@ -2778,7 +3342,13 @@
     "Coming of Age",
     "Ensemble Cast",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fcebd1",
+    "#6a321b",
+    "#8b5031"
+   ],
+   "brightness": 0.555
   },
   {
    "id": 133701,
@@ -2806,7 +3376,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#4c192e",
+    "#733047",
+    "#8d3653"
+   ],
+   "brightness": 0.21
   },
   {
    "id": 188783,
@@ -2835,7 +3411,13 @@
     "Urban",
     "Heterosexual",
     "Detective"
-   ]
+   ],
+   "palette": [
+    "#ffe9d7",
+    "#fbcfcb",
+    "#ef566b"
+   ],
+   "brightness": 0.611
   },
   {
    "id": 129571,
@@ -2863,7 +3445,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#e4c8b9",
+    "#d4b8ab",
+    "#dec2b5"
+   ],
+   "brightness": 0.308
   },
   {
    "id": 88350,
@@ -2892,7 +3480,13 @@
     "Virginity",
     "Travel",
     "Age Regression"
-   ]
+   ],
+   "palette": [
+    "#b28d6a",
+    "#e3d3c6",
+    "#292d70"
+   ],
+   "brightness": 0.491
   },
   {
    "id": 80243,
@@ -2920,7 +3514,13 @@
     "Suicide",
     "Male Protagonist",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f1e4c6",
+    "#ab766d",
+    "#ebd4b5"
+   ],
+   "brightness": 0.736
   },
   {
    "id": 86,
@@ -2951,7 +3551,13 @@
     "Dystopian",
     "Denpa",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#f4d4cc",
+    "#8cbacf",
+    "#abc9d6"
+   ],
+   "brightness": 0.665
   },
   {
    "id": 129133,
@@ -2981,7 +3587,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fcd7ad",
+    "#fbcd94",
+    "#d4ab50"
+   ],
+   "brightness": 0.679
   },
   {
    "id": 89,
@@ -3012,7 +3624,13 @@
     "Dystopian",
     "Denpa",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#fad4ae",
+    "#9167bb",
+    "#9970c2"
+   ],
+   "brightness": 0.582
   },
   {
    "id": 719,
@@ -3042,7 +3660,13 @@
     "Fugitive",
     "Primarily Adult Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#e8e2d0",
+    "#bcb4a3",
+    "#b1ac94"
+   ],
+   "brightness": 0.732
   },
   {
    "id": 126372,
@@ -3071,7 +3695,13 @@
     "Male Protagonist",
     "School",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#eb7595",
+    "#cc586d",
+    "#d1908f"
+   ],
+   "brightness": 0.613
   },
   {
    "id": 1259,
@@ -3102,7 +3732,13 @@
     "Dystopian",
     "Denpa",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#4c3236",
+    "#f2d9d2",
+    "#543848"
+   ],
+   "brightness": 0.501
   },
   {
    "id": 1111,
@@ -3132,7 +3768,13 @@
     "Revenge",
     "Super Power",
     "Conspiracy"
-   ]
+   ],
+   "palette": [
+    "#a6d475",
+    "#696a95",
+    "#356b2b"
+   ],
+   "brightness": 0.528
   },
   {
    "id": 121104,
@@ -3161,7 +3803,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#fceed7",
+    "#f4cf91",
+    "#d5ab92"
+   ],
+   "brightness": 0.759
   },
   {
    "id": 124440,
@@ -3190,7 +3838,13 @@
     "Ensemble Cast",
     "Medieval",
     "Orphan"
-   ]
+   ],
+   "palette": [
+    "#fbe8ca",
+    "#cf956c",
+    "#fbc904"
+   ],
+   "brightness": 0.594
   },
   {
    "id": 80491,
@@ -3218,7 +3872,13 @@
     "Suicide",
     "Male Protagonist",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f5d8bc",
+    "#6f504d",
+    "#f9dcc2"
+   ],
+   "brightness": 0.642
   },
   {
    "id": 127221,
@@ -3249,7 +3909,13 @@
     "Coming of Age",
     "Primarily Female Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#b39586",
+    "#edd9cb",
+    "#a88a7a"
+   ],
+   "brightness": 0.647
   },
   {
    "id": 67327,
@@ -3277,7 +3943,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#f4d7b1",
+    "#332e19",
+    "#b4904b"
+   ],
+   "brightness": 0.553
   },
   {
    "id": 71933,
@@ -3306,7 +3978,13 @@
     "Ensemble Cast",
     "Aliens",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#311409",
+    "#fcedcf",
+    "#4a2c19"
+   ],
+   "brightness": 0.452
   },
   {
    "id": 209,
@@ -3336,7 +4014,13 @@
     "Mythology",
     "Coming of Age",
     "Shapeshifting"
-   ]
+   ],
+   "palette": [
+    "#fef1c8",
+    "#d24f4d",
+    "#eb704d"
+   ],
+   "brightness": 0.64
   },
   {
    "id": 148740,
@@ -3365,7 +4049,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#5649b8",
+    "#634ebd",
+    "#534ec4"
+   ],
+   "brightness": 0.471
   },
   {
    "id": 13767,
@@ -3395,7 +4085,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#faebb2",
+    "#172737",
+    "#1b314c"
+   ],
+   "brightness": 0.432
   },
   {
    "id": 723,
@@ -3425,7 +4121,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#fbb7ab",
+    "#035ecc",
+    "#90392e"
+   ],
+   "brightness": 0.579
   },
   {
    "id": 141061,
@@ -3454,7 +4156,13 @@
     "Ensemble Cast",
     "Politics",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#cbb3d0",
+    "#ac97b5",
+    "#b7a7c9"
+   ],
+   "brightness": 0.753
   },
   {
    "id": 36828,
@@ -3483,7 +4191,13 @@
     "Heterosexual",
     "Primarily Teen Cast",
     "Isekai"
-   ]
+   ],
+   "palette": [
+    "#d2abb4",
+    "#d7b4c9",
+    "#c994ab"
+   ],
+   "brightness": 0.743
   },
   {
    "id": 145341,
@@ -3512,7 +4226,13 @@
     "Urban",
     "Ensemble Cast",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#eed4d4",
+    "#fbe2dc",
+    "#d10218"
+   ],
+   "brightness": 0.622
   },
   {
    "id": 138101,
@@ -3541,7 +4261,13 @@
     "Assassins",
     "Conspiracy",
     "Adoption"
-   ]
+   ],
+   "palette": [
+    "#5db4b1",
+    "#d2b0ac",
+    "#ead2cc"
+   ],
+   "brightness": 0.739
   },
   {
    "id": 123385,
@@ -3571,7 +4297,13 @@
     "Agender",
     "Post-Apocalyptic",
     "Seinen"
-   ]
+   ],
+   "palette": [
+    "#6eb2b1",
+    "#2f8e94",
+    "#58a6a8"
+   ],
+   "brightness": 0.798
   },
   {
    "id": 11772,
@@ -3601,7 +4333,13 @@
     "Seinen",
     "Primarily Adult Cast",
     "Disability"
-   ]
+   ],
+   "palette": [
+    "#906d51",
+    "#f0b58a",
+    "#f4d2af"
+   ],
+   "brightness": 0.498
   },
   {
    "id": 67067,
@@ -3630,7 +4368,13 @@
     "Anti-Hero",
     "Heterosexual",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#f9d9c6",
+    "#fde5ce",
+    "#f5cbb9"
+   ],
+   "brightness": 0.533
   },
   {
    "id": 121724,
@@ -3661,7 +4405,13 @@
     "Prison",
     "Demons",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#8e7448",
+    "#6d5630",
+    "#94886f"
+   ],
+   "brightness": 0.286
   },
   {
    "id": 157115,
@@ -3689,7 +4439,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f1dacc",
+    "#897271",
+    "#f9e5d7"
+   ],
+   "brightness": 0.648
   },
   {
    "id": 71267,
@@ -3717,7 +4473,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#fee8c5",
+    "#cfae50",
+    "#8e712e"
+   ],
+   "brightness": 0.654
   },
   {
    "id": 174873,
@@ -3746,7 +4508,13 @@
     "Ensemble Cast",
     "Politics",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#ac8376",
+    "#6a2a34",
+    "#a77b6e"
+   ],
+   "brightness": 0.346
   },
   {
    "id": 6194,
@@ -3774,7 +4542,13 @@
     "Travel",
     "Coming of Age",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#6f4d4e",
+    "#d1ab91",
+    "#b06a52"
+   ],
+   "brightness": 0.6
   },
   {
    "id": 154224,
@@ -3802,7 +4576,13 @@
     "Female Harem",
     "Heterosexual",
     "Slapstick"
-   ]
+   ],
+   "palette": [
+    "#fdecd4",
+    "#f7e4b6",
+    "#f2d5ad"
+   ],
+   "brightness": 0.791
   },
   {
    "id": 65643,
@@ -3831,7 +4611,13 @@
     "Ensemble Cast",
     "Aliens",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#fcef57",
+    "#fdf46b",
+    "#e4ae14"
+   ],
+   "brightness": 0.594
   },
   {
    "id": 246,
@@ -3861,7 +4647,13 @@
     "Cultivation",
     "Aliens",
     "Anthropomorphism"
-   ]
+   ],
+   "palette": [
+    "#932e16",
+    "#0c1136",
+    "#f3d8c3"
+   ],
+   "brightness": 0.365
   },
   {
    "id": 125659,
@@ -3890,7 +4682,13 @@
     "Politics",
     "Dystopian",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#ab8a72",
+    "#6c534b",
+    "#8b6b59"
+   ],
+   "brightness": 0.274
   },
   {
    "id": 58,
@@ -3918,7 +4716,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#fdede2",
+    "#fae6da",
+    "#edd8cb"
+   ],
+   "brightness": 0.664
   },
   {
    "id": 123285,
@@ -3947,7 +4751,13 @@
     "Ensemble Cast",
     "Medieval",
     "Orphan"
-   ]
+   ],
+   "palette": [
+    "#fee6cc",
+    "#f8936a",
+    "#f3cfb3"
+   ],
+   "brightness": 0.498
   },
   {
    "id": 4004,
@@ -3975,7 +4785,13 @@
     "Shounen",
     "Cultivation",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f9ebcf",
+    "#6c4e32",
+    "#f2d4ae"
+   ],
+   "brightness": 0.525
   },
   {
    "id": 89364,
@@ -4004,7 +4820,13 @@
     "Ensemble Cast",
     "Slapstick",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#255058",
+    "#fdefca",
+    "#6a5449"
+   ],
+   "brightness": 0.437
   },
   {
    "id": 13580,
@@ -4033,7 +4855,13 @@
     "Male Protagonist",
     "Urban",
     "Criminal Organization"
-   ]
+   ],
+   "palette": [
+    "#f9e9d8",
+    "#f1d68b",
+    "#c8ab53"
+   ],
+   "brightness": 0.777
   },
   {
    "id": 136070,
@@ -4063,7 +4891,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f2e6cb",
+    "#efddc2",
+    "#f0d8b7"
+   ],
+   "brightness": 0.492
   },
   {
    "id": 23277,
@@ -4091,7 +4925,13 @@
     "Philosophy",
     "Martial Arts",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#33514d",
+    "#c8d8b3",
+    "#55664d"
+   ],
+   "brightness": 0.346
   },
   {
    "id": 69411,
@@ -4120,7 +4960,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#fee6ce",
+    "#faa96c",
+    "#fad5ad"
+   ],
+   "brightness": 0.678
   },
   {
    "id": 71611,
@@ -4148,7 +4994,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#f3d5b3",
+    "#52362c",
+    "#6a7134"
+   ],
+   "brightness": 0.589
   },
   {
    "id": 2075,
@@ -4179,7 +5031,13 @@
     "Dystopian",
     "Space Opera",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#e7bc86",
+    "#edc289",
+    "#d2ab79"
+   ],
+   "brightness": 0.555
   },
   {
    "id": 121101,
@@ -4208,7 +5066,13 @@
     "Surreal Comedy",
     "Kuudere",
     "Ojou-sama"
-   ]
+   ],
+   "palette": [
+    "#e7c7b0",
+    "#eed8cb",
+    "#f5e4d9"
+   ],
+   "brightness": 0.623
   },
   {
    "id": 2072,
@@ -4238,7 +5102,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#501011",
+    "#31526f",
+    "#703129"
+   ],
+   "brightness": 0.438
   },
   {
    "id": 207,
@@ -4268,7 +5138,13 @@
     "Mythology",
     "Coming of Age",
     "Shapeshifting"
-   ]
+   ],
+   "palette": [
+    "#f1ac4a",
+    "#552e37",
+    "#f9e8da"
+   ],
+   "brightness": 0.634
   },
   {
    "id": 36765,
@@ -4297,7 +5173,13 @@
     "Heterosexual",
     "Primarily Teen Cast",
     "Isekai"
-   ]
+   ],
+   "palette": [
+    "#ccacaf",
+    "#4e4f6d",
+    "#b28c94"
+   ],
+   "brightness": 0.483
   },
   {
    "id": 284157,
@@ -4326,7 +5208,13 @@
     "Male Protagonist",
     "Class Struggle",
     "Gangs"
-   ]
+   ],
+   "palette": [
+    "#cfabec",
+    "#f1e6f7",
+    "#eed0f2"
+   ],
+   "brightness": 0.718
   },
   {
    "id": 81929,
@@ -4355,7 +5243,13 @@
     "Surreal Comedy",
     "Urban Fantasy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f9ab8a",
+    "#2f6b34",
+    "#0e2d32"
+   ],
+   "brightness": 0.454
   },
   {
    "id": 89225,
@@ -4383,7 +5277,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#d99787",
+    "#4e312c",
+    "#cc8b7a"
+   ],
+   "brightness": 0.244
   },
   {
    "id": 309,
@@ -4413,7 +5313,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#fbd490",
+    "#ae344b",
+    "#fc6e87"
+   ],
+   "brightness": 0.522
   },
   {
    "id": 121889,
@@ -4441,7 +5347,13 @@
     "Primarily Teen Cast",
     "Ojou-sama",
     "Poker"
-   ]
+   ],
+   "palette": [
+    "#f5a6ad",
+    "#4e2d34",
+    "#ca6a70"
+   ],
+   "brightness": 0.423
   },
   {
    "id": 13085,
@@ -4471,7 +5383,13 @@
     "Male Protagonist",
     "Time Loop",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#aee9fc",
+    "#f8d5ad",
+    "#372a50"
+   ],
+   "brightness": 0.431
   },
   {
    "id": 183965,
@@ -4499,7 +5417,13 @@
     "Medieval",
     "Found Family",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#f9d5b4",
+    "#71316d",
+    "#502f53"
+   ],
+   "brightness": 0.478
   },
   {
    "id": 718,
@@ -4529,7 +5453,13 @@
     "Fugitive",
     "Primarily Adult Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#f0aa74",
+    "#ce4f53",
+    "#efb789"
+   ],
+   "brightness": 0.522
   },
   {
    "id": 128651,
@@ -4559,7 +5489,13 @@
     "Female Protagonist",
     "Urban Fantasy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fad1b2",
+    "#f34c53",
+    "#c50a16"
+   ],
+   "brightness": 0.386
   },
   {
    "id": 88348,
@@ -4588,7 +5524,13 @@
     "Virginity",
     "Travel",
     "Age Regression"
-   ]
+   ],
+   "palette": [
+    "#f7d7b8",
+    "#fbe5c6",
+    "#f9ddc2"
+   ],
+   "brightness": 0.642
   },
   {
    "id": 12055,
@@ -4618,7 +5560,13 @@
     "Male Protagonist",
     "Primarily Male Cast",
     "Time Loop"
-   ]
+   ],
+   "palette": [
+    "#f9d5b0",
+    "#fde8cd",
+    "#adabed"
+   ],
+   "brightness": 0.539
   },
   {
    "id": 507,
@@ -4647,7 +5595,13 @@
     "Elderly Protagonist",
     "Found Family",
     "War"
-   ]
+   ],
+   "palette": [
+    "#f1d7ac",
+    "#cda573",
+    "#b2926c"
+   ],
+   "brightness": 0.691
   },
   {
    "id": 2007,
@@ -4678,7 +5632,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#4b5133",
+    "#f1d5b0",
+    "#6f7649"
+   ],
+   "brightness": 0.511
   },
   {
    "id": 12064,
@@ -4707,7 +5667,13 @@
     "School",
     "Unrequited Love",
     "Female Protagonist"
-   ]
+   ],
+   "palette": [
+    "#d59166",
+    "#fcc7b2",
+    "#663b2e"
+   ],
+   "brightness": 0.544
   },
   {
    "id": 210,
@@ -4735,7 +5701,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#2f140d",
+    "#4d3228",
+    "#745447"
+   ],
+   "brightness": 0.482
   },
   {
    "id": 424,
@@ -4766,7 +5738,13 @@
     "Gore",
     "Philosophy",
     "Found Family"
-   ]
+   ],
+   "palette": [
+    "#cad5ee",
+    "#98a6d5",
+    "#a9b2d8"
+   ],
+   "brightness": 0.753
   },
   {
    "id": 87277,
@@ -4797,7 +5775,13 @@
     "Male Protagonist",
     "Torture",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#afc6d7",
+    "#f5d8cf",
+    "#cbd7e8"
+   ],
+   "brightness": 0.776
   },
   {
    "id": 89362,
@@ -4826,7 +5810,13 @@
     "Ensemble Cast",
     "Slapstick",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#8bcbea",
+    "#feece2",
+    "#76acd5"
+   ],
+   "brightness": 0.602
   },
   {
    "id": 133699,
@@ -4854,7 +5844,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fbf0e3",
+    "#f7e8d8",
+    "#e9d8cb"
+   ],
+   "brightness": 0.641
   },
   {
    "id": 83797,
@@ -4882,7 +5878,13 @@
     "Class Struggle",
     "Dystopian",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#f6e7d4",
+    "#2a3846",
+    "#232e3b"
+   ],
+   "brightness": 0.393
   },
   {
    "id": 458,
@@ -4911,7 +5913,13 @@
     "Primarily Adult Cast",
     "Travel",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#73958d",
+    "#2f504d",
+    "#90ab90"
+   ],
+   "brightness": 0.458
   },
   {
    "id": 45887,
@@ -4940,7 +5948,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#bcae9c",
+    "#c4b6a4",
+    "#334656"
+   ],
+   "brightness": 0.336
   },
   {
    "id": 2257,
@@ -4971,7 +5985,13 @@
     "Dystopian",
     "Space Opera",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#fab87b",
+    "#35376e",
+    "#2f2c50"
+   ],
+   "brightness": 0.365
   },
   {
    "id": 70069,
@@ -5003,7 +6023,13 @@
     "Urban Fantasy",
     "Primarily Teen Cast",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f4d6cc",
+    "#4e312f",
+    "#32090b"
+   ],
+   "brightness": 0.452
   },
   {
    "id": 121956,
@@ -5031,7 +6057,13 @@
     "Slapstick",
     "Primarily Teen Cast",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#4b354d",
+    "#39314c",
+    "#6e5356"
+   ],
+   "brightness": 0.408
   },
   {
    "id": 2219,
@@ -5061,7 +6093,13 @@
     "Female Protagonist",
     "Memory Manipulation",
     "Artificial Intelligence"
-   ]
+   ],
+   "palette": [
+    "#4f1512",
+    "#330f0e",
+    "#6c1a15"
+   ],
+   "brightness": 0.383
   },
   {
    "id": 136071,
@@ -5091,7 +6129,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#f9d8a7",
+    "#f7cb95",
+    "#af9072"
+   ],
+   "brightness": 0.56
   },
   {
    "id": 67329,
@@ -5119,7 +6163,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#f3d7b8",
+    "#f6ddc1",
+    "#e9b48b"
+   ],
+   "brightness": 0.674
   },
   {
    "id": 141060,
@@ -5148,7 +6198,13 @@
     "Ensemble Cast",
     "Politics",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#e7cdb3",
+    "#4f322e",
+    "#d4b199"
+   ],
+   "brightness": 0.494
   },
   {
    "id": 702,
@@ -5177,7 +6233,13 @@
     "Rock Music",
     "Pregnancy",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#6d5398",
+    "#554895",
+    "#6f58a5"
+   ],
+   "brightness": 0.434
   },
   {
    "id": 11222,
@@ -5206,7 +6268,13 @@
     "Prison",
     "Crime",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#e7cab0",
+    "#e6b195",
+    "#d6a895"
+   ],
+   "brightness": 0.565
   },
   {
    "id": 65865,
@@ -5235,7 +6303,13 @@
     "Heterosexual",
     "Slapstick",
     "Disability"
-   ]
+   ],
+   "palette": [
+    "#2e324f",
+    "#924f46",
+    "#4d2d2b"
+   ],
+   "brightness": 0.29
   },
   {
    "id": 22055,
@@ -5266,7 +6340,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#323a52",
+    "#fee7cf",
+    "#feafc5"
+   ],
+   "brightness": 0.478
   },
   {
    "id": 46484,
@@ -5295,7 +6375,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#fce7ce",
+    "#313b49",
+    "#eee2b5"
+   ],
+   "brightness": 0.525
   },
   {
    "id": 162722,
@@ -5323,7 +6409,13 @@
     "Urban Fantasy",
     "Male Protagonist",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#ebd9cd",
+    "#d1c9b4",
+    "#f2e5d7"
+   ],
+   "brightness": 0.432
   },
   {
    "id": 2514,
@@ -5352,7 +6444,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#fdf1d2",
+    "#f6d24e",
+    "#af8d6e"
+   ],
+   "brightness": 0.741
   },
   {
    "id": 77605,
@@ -5383,7 +6481,13 @@
     "Spearplay",
     "Heterosexual",
     "Super Power"
-   ]
+   ],
+   "palette": [
+    "#f6d4b0",
+    "#ba876d",
+    "#300f18"
+   ],
+   "brightness": 0.67
   },
   {
    "id": 88349,
@@ -5412,7 +6516,13 @@
     "Virginity",
     "Travel",
     "Age Regression"
-   ]
+   ],
+   "palette": [
+    "#f6d4b4",
+    "#b04f57",
+    "#cb716c"
+   ],
+   "brightness": 0.603
   },
   {
    "id": 6,
@@ -5440,7 +6550,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#fbd1b1",
+    "#f8ce90",
+    "#fef4cf"
+   ],
+   "brightness": 0.485
   },
   {
    "id": 434,
@@ -5468,7 +6584,13 @@
     "Educational",
     "Coming of Age",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#720e1a",
+    "#f7af6d",
+    "#f69051"
+   ],
+   "brightness": 0.481
   },
   {
    "id": 222594,
@@ -5499,7 +6621,13 @@
     "Primarily Teen Cast",
     "Surreal Comedy",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#fdebd1",
+    "#ab2e65",
+    "#ca4f6e"
+   ],
+   "brightness": 0.639
   },
   {
    "id": 19492,
@@ -5529,7 +6657,13 @@
     "Seinen",
     "Primarily Adult Cast",
     "Disability"
-   ]
+   ],
+   "palette": [
+    "#fcedcf",
+    "#f2ce92",
+    "#704e2f"
+   ],
+   "brightness": 0.504
   },
   {
    "id": 89201,
@@ -5558,7 +6692,13 @@
     "Male Protagonist",
     "Classic Literature",
     "Yakuza"
-   ]
+   ],
+   "palette": [
+    "#e7cdb2",
+    "#70534b",
+    "#964c16"
+   ],
+   "brightness": 0.453
   },
   {
    "id": 913,
@@ -5588,7 +6728,13 @@
     "Cultivation",
     "Aliens",
     "Space"
-   ]
+   ],
+   "palette": [
+    "#f7d1a5",
+    "#0a316c",
+    "#1754a2"
+   ],
+   "brightness": 0.525
   },
   {
    "id": 88412,
@@ -5619,7 +6765,13 @@
     "Male Protagonist",
     "Torture",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#596677",
+    "#697687",
+    "#8d98a8"
+   ],
+   "brightness": 0.474
   },
   {
    "id": 12,
@@ -5648,7 +6800,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#748b90",
+    "#586b6f",
+    "#63767b"
+   ],
+   "brightness": 0.396
   },
   {
    "id": 137975,
@@ -5676,7 +6834,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fde4b8",
+    "#4c1715",
+    "#330e0e"
+   ],
+   "brightness": 0.428
   },
   {
    "id": 1662,
@@ -5707,7 +6871,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f4d3cc",
+    "#d4a98e",
+    "#351511"
+   ],
+   "brightness": 0.493
   },
   {
    "id": 55131,
@@ -5735,7 +6905,13 @@
     "Coming of Age",
     "Bowling",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#faf2c5",
+    "#fbedb7",
+    "#ebd9a8"
+   ],
+   "brightness": 0.494
   },
   {
    "id": 260329,
@@ -5762,7 +6938,13 @@
     "Terrorism",
     "Conspiracy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#ebb7af",
+    "#f0d5cb",
+    "#f6e5db"
+   ],
+   "brightness": 0.815
   },
   {
    "id": 5189,
@@ -5791,7 +6973,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Dragons"
-   ]
+   ],
+   "palette": [
+    "#6c1a28",
+    "#732734",
+    "#8b2938"
+   ],
+   "brightness": 0.41
   },
   {
    "id": 75,
@@ -5820,7 +7008,13 @@
     "Police",
     "Philosophy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#cccfea",
+    "#2a3050",
+    "#abafd6"
+   ],
+   "brightness": 0.42
   },
   {
    "id": 7373,
@@ -5850,7 +7044,13 @@
     "Hikikomori",
     "Nudity",
     "Otaku Culture"
-   ]
+   ],
+   "palette": [
+    "#cc7132",
+    "#fbe9db",
+    "#8b310c"
+   ],
+   "brightness": 0.531
   },
   {
    "id": 908,
@@ -5878,7 +7078,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#9a6d50",
+    "#f99252",
+    "#a77150"
+   ],
+   "brightness": 0.282
   },
   {
    "id": 145344,
@@ -5907,7 +7113,13 @@
     "Urban",
     "Ensemble Cast",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#f8ecd6",
+    "#d2b4cd",
+    "#ebd2d0"
+   ],
+   "brightness": 0.8
   },
   {
    "id": 1086,
@@ -5935,7 +7147,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#fdfccd",
+    "#704936",
+    "#533229"
+   ],
+   "brightness": 0.644
   },
   {
    "id": 63351,
@@ -5967,7 +7185,13 @@
     "Henshin",
     "Swordplay",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#feedd5",
+    "#320f0f",
+    "#fadac6"
+   ],
+   "brightness": 0.364
   },
   {
    "id": 136837,
@@ -5995,7 +7219,13 @@
     "Magic",
     "Cult",
     "Swordplay"
-   ]
+   ],
+   "palette": [
+    "#2f2f51",
+    "#011746",
+    "#37386d"
+   ],
+   "brightness": 0.282
   },
   {
    "id": 835,
@@ -6024,7 +7254,13 @@
     "Police",
     "Philosophy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#f7d7b0",
+    "#f9e6cf",
+    "#f5cb90"
+   ],
+   "brightness": 0.766
   },
   {
    "id": 145345,
@@ -6053,7 +7289,13 @@
     "Urban",
     "Ensemble Cast",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#feeed1",
+    "#fde4b5",
+    "#f9d9aa"
+   ],
+   "brightness": 0.771
   },
   {
    "id": 3096,
@@ -6083,7 +7325,13 @@
     "Fugitive",
     "Primarily Adult Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#e9cbab",
+    "#d4b28c",
+    "#e7c399"
+   ],
+   "brightness": 0.604
   },
   {
    "id": 75216,
@@ -6110,7 +7358,13 @@
     "Nudity",
     "Tsundere",
     "Educational"
-   ]
+   ],
+   "palette": [
+    "#fde3b3",
+    "#f2d6ac",
+    "#373454"
+   ],
+   "brightness": 0.633
   },
   {
    "id": 88937,
@@ -6138,7 +7392,13 @@
     "Shounen",
     "Male Protagonist",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#eed4bb",
+    "#f4dbc2",
+    "#ceb9a6"
+   ],
+   "brightness": 0.658
   },
   {
    "id": 65645,
@@ -6167,7 +7427,13 @@
     "Ensemble Cast",
     "Aliens",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#f7e7d5",
+    "#d8a791",
+    "#4b6da8"
+   ],
+   "brightness": 0.725
   },
   {
    "id": 10010,
@@ -6196,7 +7462,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#2a1735",
+    "#2a1a4d",
+    "#180e30"
+   ],
+   "brightness": 0.216
   },
   {
    "id": 89224,
@@ -6224,7 +7496,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#fef203",
+    "#502f2b",
+    "#331617"
+   ],
+   "brightness": 0.327
   },
   {
    "id": 168774,
@@ -6254,7 +7532,13 @@
     "Male Protagonist",
     "Aromantic",
     "Heterosexual"
-   ]
+   ],
+   "palette": [
+    "#cfb8ac",
+    "#e9d7ce",
+    "#91746f"
+   ],
+   "brightness": 0.592
   },
   {
    "id": 88889,
@@ -6282,7 +7566,13 @@
     "Revenge",
     "Magic",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#fcedd2",
+    "#f0cfb0",
+    "#af505b"
+   ],
+   "brightness": 0.677
   },
   {
    "id": 261674,
@@ -6310,7 +7600,13 @@
     "Cute Girls Doing Cute Things",
     "Coming of Age",
     "Hikikomori"
-   ]
+   ],
+   "palette": [
+    "#fde8d5",
+    "#fbceb0",
+    "#f4b48f"
+   ],
+   "brightness": 0.806
   },
   {
    "id": 12659,
@@ -6340,7 +7636,13 @@
     "Male Protagonist",
     "Time Loop",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#f1cd91",
+    "#d4904d",
+    "#e8af6e"
+   ],
+   "brightness": 0.435
   },
   {
    "id": 89853,
@@ -6369,7 +7671,13 @@
     "Male Protagonist",
     "Classic Literature",
     "Yakuza"
-   ]
+   ],
+   "palette": [
+    "#f9e8c7",
+    "#51281a",
+    "#904d33"
+   ],
+   "brightness": 0.554
   },
   {
    "id": 10529,
@@ -6399,7 +7707,13 @@
     "Male Protagonist",
     "Ensemble Cast",
     "Foreign"
-   ]
+   ],
+   "palette": [
+    "#f4ad8f",
+    "#f6d3cb",
+    "#f2956f"
+   ],
+   "brightness": 0.59
   },
   {
    "id": 128106,
@@ -6427,7 +7741,13 @@
     "Female Harem",
     "Heterosexual",
     "Slapstick"
-   ]
+   ],
+   "palette": [
+    "#6f534d",
+    "#4d3530",
+    "#f6d8cb"
+   ],
+   "brightness": 0.598
   },
   {
    "id": 218648,
@@ -6455,7 +7775,13 @@
     "Male Protagonist",
     "Badminton",
     "Unrequited Love"
-   ]
+   ],
+   "palette": [
+    "#96686e",
+    "#a77075",
+    "#895359"
+   ],
+   "brightness": 0.612
   },
   {
    "id": 121700,
@@ -6486,7 +7812,13 @@
     "Prison",
     "Demons",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#8c7550",
+    "#ccb372",
+    "#b19050"
+   ],
+   "brightness": 0.524
   },
   {
    "id": 2,
@@ -6515,7 +7847,13 @@
     "Philosophy",
     "Found Family",
     "Travel"
-   ]
+   ],
+   "palette": [
+    "#feddc4",
+    "#121a32",
+    "#ffe5ca"
+   ],
+   "brightness": 0.391
   },
   {
    "id": 130848,
@@ -6544,7 +7882,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#c6a88e",
+    "#866752",
+    "#725848"
+   ],
+   "brightness": 0.326
   },
   {
    "id": 724,
@@ -6574,7 +7918,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f4ce6f",
+    "#f3d88f",
+    "#f7e7af"
+   ],
+   "brightness": 0.548
   },
   {
    "id": 13045,
@@ -6604,7 +7954,13 @@
     "Male Protagonist",
     "Ensemble Cast",
     "Foreign"
-   ]
+   ],
+   "palette": [
+    "#f9c6b9",
+    "#f7d1c8",
+    "#fbaa95"
+   ],
+   "brightness": 0.465
   },
   {
    "id": 71269,
@@ -6632,7 +7988,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#eabd9b",
+    "#914d2b",
+    "#ac6531"
+   ],
+   "brightness": 0.392
   },
   {
    "id": 136072,
@@ -6662,7 +8024,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fbedcd",
+    "#cd4877",
+    "#f3d4b0"
+   ],
+   "brightness": 0.618
   },
   {
    "id": 65239,
@@ -6694,7 +8062,13 @@
     "Henshin",
     "Swordplay",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#6c96d2",
+    "#315171",
+    "#76a9ea"
+   ],
+   "brightness": 0.5
   },
   {
    "id": 8455,
@@ -6724,7 +8098,13 @@
     "Female Protagonist",
     "Ninja",
     "Witch"
-   ]
+   ],
+   "palette": [
+    "#f8e3c7",
+    "#e8d4b7",
+    "#f3dec2"
+   ],
+   "brightness": 0.701
   },
   {
    "id": 162213,
@@ -6752,7 +8132,13 @@
     "Battle Royale",
     "Primarily Teen Cast",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#fde5d6",
+    "#292c06",
+    "#fcf003"
+   ],
+   "brightness": 0.455
   },
   {
    "id": 2423,
@@ -6783,7 +8169,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#ceb28f",
+    "#b9a992",
+    "#c9baa6"
+   ],
+   "brightness": 0.633
   },
   {
    "id": 21044,
@@ -6810,7 +8202,13 @@
     "Board Game",
     "Estranged Family",
     "Family Life"
-   ]
+   ],
+   "palette": [
+    "#65b9ae",
+    "#f8dbc3",
+    "#f0d0b4"
+   ],
+   "brightness": 0.546
   },
   {
    "id": 121052,
@@ -6837,7 +8235,13 @@
     "Gods",
     "Isekai",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#714b47",
+    "#8f544c",
+    "#af6a56"
+   ],
+   "brightness": 0.44
   },
   {
    "id": 172759,
@@ -6866,7 +8270,13 @@
     "Urban",
     "Heterosexual",
     "Detective"
-   ]
+   ],
+   "palette": [
+    "#fed6e5",
+    "#6e1090",
+    "#500b91"
+   ],
+   "brightness": 0.424
   },
   {
    "id": 125168,
@@ -6896,7 +8306,13 @@
     "Cannibalism",
     "School",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#ab524d",
+    "#944a48",
+    "#914539"
+   ],
+   "brightness": 0.597
   },
   {
    "id": 89243,
@@ -6924,7 +8340,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#4d1711",
+    "#33110e",
+    "#d79676"
+   ],
+   "brightness": 0.271
   },
   {
    "id": 89277,
@@ -6953,7 +8375,13 @@
     "Surreal Comedy",
     "Urban Fantasy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f5e9d3",
+    "#eeceb1",
+    "#8e2e2d"
+   ],
+   "brightness": 0.501
   },
   {
    "id": 14864,
@@ -6982,7 +8410,13 @@
     "Samurai",
     "Estranged Family",
     "Youkai"
-   ]
+   ],
+   "palette": [
+    "#8c746c",
+    "#eed0b8",
+    "#6a5650"
+   ],
+   "brightness": 0.333
   },
   {
    "id": 73979,
@@ -7011,7 +8445,13 @@
     "Surreal Comedy",
     "Urban Fantasy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f4efd0",
+    "#d5ceac",
+    "#cbb78f"
+   ],
+   "brightness": 0.707
   },
   {
    "id": 203384,
@@ -7040,7 +8480,13 @@
     "Urban",
     "Heterosexual",
     "Detective"
-   ]
+   ],
+   "palette": [
+    "#fdead4",
+    "#714f6d",
+    "#f8d0b2"
+   ],
+   "brightness": 0.567
   },
   {
    "id": 29,
@@ -7068,7 +8514,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#0d2e4f",
+    "#facfab",
+    "#f4b994"
+   ],
+   "brightness": 0.427
   },
   {
    "id": 50389,
@@ -7098,7 +8550,13 @@
     "Heterosexual",
     "Shounen",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#b12538",
+    "#cf2e3b",
+    "#fbe7d9"
+   ],
+   "brightness": 0.55
   },
   {
    "id": 264529,
@@ -7126,7 +8584,13 @@
     "Cute Girls Doing Cute Things",
     "Coming of Age",
     "Hikikomori"
-   ]
+   ],
+   "palette": [
+    "#2d73b4",
+    "#1069af",
+    "#568bc5"
+   ],
+   "brightness": 0.609
   },
   {
    "id": 157116,
@@ -7154,7 +8618,13 @@
     "Male Protagonist",
     "Exorcism",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f8d6aa",
+    "#f7ca96",
+    "#b1906f"
+   ],
+   "brightness": 0.399
   },
   {
    "id": 67069,
@@ -7183,7 +8653,13 @@
     "Anti-Hero",
     "Heterosexual",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#fce8d3",
+    "#eb7973",
+    "#d3726d"
+   ],
+   "brightness": 0.575
   },
   {
    "id": 53641,
@@ -7214,7 +8690,13 @@
     "Incest",
     "Female Harem",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#eee2d6",
+    "#eadcd1",
+    "#896c68"
+   ],
+   "brightness": 0.624
   },
   {
    "id": 19565,
@@ -7242,7 +8724,13 @@
     "School",
     "Primarily Teen Cast",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#fcd3a8",
+    "#693b15",
+    "#542c11"
+   ],
+   "brightness": 0.549
   },
   {
    "id": 601,
@@ -7270,7 +8758,13 @@
     "Foreign",
     "Religion",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#d0302c",
+    "#b0332d",
+    "#90302c"
+   ],
+   "brightness": 0.294
   },
   {
    "id": 46498,
@@ -7299,7 +8793,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#fcd3a5",
+    "#f7cb9b",
+    "#513528"
+   ],
+   "brightness": 0.529
   },
   {
    "id": 122445,
@@ -7330,7 +8830,13 @@
     "Cosmic Horror",
     "Body Horror",
     "Curses"
-   ]
+   ],
+   "palette": [
+    "#938972",
+    "#b5a889",
+    "#504836"
+   ],
+   "brightness": 0.443
   },
   {
    "id": 2535,
@@ -7361,7 +8867,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#ecccb1",
+    "#774a05",
+    "#875403"
+   ],
+   "brightness": 0.435
   },
   {
    "id": 162969,
@@ -7389,7 +8901,13 @@
     "Battle Royale",
     "Primarily Teen Cast",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#e5cdda",
+    "#ccb5cf",
+    "#515069"
+   ],
+   "brightness": 0.645
   },
   {
    "id": 19566,
@@ -7417,7 +8935,13 @@
     "School",
     "Primarily Teen Cast",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#fad4b2",
+    "#b78b72",
+    "#273071"
+   ],
+   "brightness": 0.486
   },
   {
    "id": 674,
@@ -7446,7 +8970,13 @@
     "Slapstick",
     "Surreal Comedy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fb7765",
+    "#2c1137",
+    "#d52747"
+   ],
+   "brightness": 0.567
   },
   {
    "id": 909,
@@ -7474,7 +9004,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#4d352b",
+    "#6d4939",
+    "#ab7252"
+   ],
+   "brightness": 0.392
   },
   {
    "id": 245466,
@@ -7505,7 +9041,13 @@
     "Primarily Teen Cast",
     "Surreal Comedy",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#fde8d1",
+    "#febbf6",
+    "#cf8eae"
+   ],
+   "brightness": 0.7
   },
   {
    "id": 125619,
@@ -7533,7 +9075,13 @@
     "Male Protagonist",
     "Ensemble Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#f4e4cf",
+    "#eedbc8",
+    "#d7c8b0"
+   ],
+   "brightness": 0.637
   },
   {
    "id": 140856,
@@ -7561,7 +9109,13 @@
     "Battle Royale",
     "Primarily Teen Cast",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#293351",
+    "#151b34",
+    "#1c2446"
+   ],
+   "brightness": 0.39
   },
   {
    "id": 89363,
@@ -7590,7 +9144,13 @@
     "Ensemble Cast",
     "Slapstick",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#fdef93",
+    "#eeb074",
+    "#f4d189"
+   ],
+   "brightness": 0.737
   },
   {
    "id": 282389,
@@ -7620,7 +9180,13 @@
     "Dissociative Identities",
     "Gore",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#f7d7cb",
+    "#f94636",
+    "#2c2b4a"
+   ],
+   "brightness": 0.53
   },
   {
    "id": 184313,
@@ -7648,7 +9214,13 @@
     "Medieval",
     "Found Family",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#f9b491",
+    "#912d35",
+    "#f58e71"
+   ],
+   "brightness": 0.389
   },
   {
    "id": 129330,
@@ -7679,7 +9251,13 @@
     "Medieval",
     "Monster Boy",
     "Seinen"
-   ]
+   ],
+   "palette": [
+    "#312754",
+    "#8f97e6",
+    "#2f2e6b"
+   ],
+   "brightness": 0.678
   },
   {
    "id": 89122,
@@ -7707,7 +9285,13 @@
     "Kingdom Management",
     "Medieval",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fdead5",
+    "#fad3b4",
+    "#704c4e"
+   ],
+   "brightness": 0.42
   },
   {
    "id": 130716,
@@ -7736,7 +9320,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#fce9b1",
+    "#f8e8d7",
+    "#92cce6"
+   ],
+   "brightness": 0.649
   },
   {
    "id": 4963,
@@ -7767,7 +9357,13 @@
     "Body Horror",
     "Gore",
     "Gods"
-   ]
+   ],
+   "palette": [
+    "#f5a9ae",
+    "#b36873",
+    "#f8d3b9"
+   ],
+   "brightness": 0.586
   },
   {
    "id": 1555,
@@ -7798,7 +9394,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f4e4d0",
+    "#eadac9",
+    "#cab8a9"
+   ],
+   "brightness": 0.51
   },
   {
    "id": 268676,
@@ -7826,7 +9428,13 @@
     "Iyashikei",
     "Coming of Age",
     "Food"
-   ]
+   ],
+   "palette": [
+    "#4d2a38",
+    "#543745",
+    "#f7d1d2"
+   ],
+   "brightness": 0.543
   },
   {
    "id": 35253,
@@ -7855,7 +9463,13 @@
     "Dystopian",
     "Primarily Adult Cast",
     "Chuunibyou"
-   ]
+   ],
+   "palette": [
+    "#fbd3a4",
+    "#d5a796",
+    "#14182e"
+   ],
+   "brightness": 0.385
   },
   {
    "id": 120974,
@@ -7883,7 +9497,13 @@
     "Cute Girls Doing Cute Things",
     "Female Protagonist",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#fee9d8",
+    "#292e4d",
+    "#f7d4cc"
+   ],
+   "brightness": 0.691
   },
   {
    "id": 82525,
@@ -7912,7 +9532,13 @@
     "Male Protagonist",
     "Primarily Female Cast",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#f4d0cf",
+    "#efb1b0",
+    "#8f70ad"
+   ],
+   "brightness": 0.695
   },
   {
    "id": 120462,
@@ -7941,7 +9567,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#ecccb4",
+    "#f5dbc8",
+    "#f8e2d1"
+   ],
+   "brightness": 0.433
   },
   {
    "id": 727,
@@ -7971,7 +9603,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#8e322e",
+    "#b03632",
+    "#732f2a"
+   ],
+   "brightness": 0.503
   },
   {
    "id": 89590,
@@ -8001,7 +9639,13 @@
     "Heterosexual",
     "Primarily Adult Cast",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#0771ad",
+    "#0693ca",
+    "#09568f"
+   ],
+   "brightness": 0.578
   },
   {
    "id": 88817,
@@ -8029,7 +9673,13 @@
     "Revenge",
     "Magic",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#e7b989",
+    "#faf1d2",
+    "#4d372d"
+   ],
+   "brightness": 0.469
   },
   {
    "id": 183885,
@@ -8058,7 +9708,13 @@
     "Urban",
     "Heterosexual",
     "Detective"
-   ]
+   ],
+   "palette": [
+    "#f7b7aa",
+    "#fac7b4",
+    "#fad4cc"
+   ],
+   "brightness": 0.61
   },
   {
    "id": 13701,
@@ -8086,7 +9742,13 @@
     "Male Protagonist",
     "Nun",
     "Amnesia"
-   ]
+   ],
+   "palette": [
+    "#fbd6c3",
+    "#efccb4",
+    "#b08f75"
+   ],
+   "brightness": 0.645
   },
   {
    "id": 1120,
@@ -8116,7 +9778,13 @@
     "Revenge",
     "Super Power",
     "Conspiracy"
-   ]
+   ],
+   "palette": [
+    "#f4ced0",
+    "#91472e",
+    "#d3afb1"
+   ],
+   "brightness": 0.552
   },
   {
    "id": 24482,
@@ -8144,7 +9812,13 @@
     "Twins",
     "Male Protagonist",
     "Religion"
-   ]
+   ],
+   "palette": [
+    "#b3d8d0",
+    "#b2e3da",
+    "#b7ebe4"
+   ],
+   "brightness": 0.53
   },
   {
    "id": 90112,
@@ -8172,7 +9846,13 @@
     "Meta",
     "School",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f8dab7",
+    "#9dd3f3",
+    "#fee6bb"
+   ],
+   "brightness": 0.658
   },
   {
    "id": 88951,
@@ -8202,7 +9882,13 @@
     "Male Protagonist",
     "School",
     "Amnesia"
-   ]
+   ],
+   "palette": [
+    "#fdedd8",
+    "#ac8f91",
+    "#8e6b74"
+   ],
+   "brightness": 0.692
   },
   {
    "id": 162,
@@ -8232,7 +9918,13 @@
     "Cowboys",
     "Post-Apocalyptic",
     "Desert"
-   ]
+   ],
+   "palette": [
+    "#f8e9d8",
+    "#2d0806",
+    "#edd7c9"
+   ],
+   "brightness": 0.579
   },
   {
    "id": 5187,
@@ -8261,7 +9953,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Dragons"
-   ]
+   ],
+   "palette": [
+    "#ecd0b2",
+    "#8f524d",
+    "#522e29"
+   ],
+   "brightness": 0.481
   },
   {
    "id": 121725,
@@ -8292,7 +9990,13 @@
     "Prison",
     "Demons",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#fde7b2",
+    "#f9d9a9",
+    "#f9ae52"
+   ],
+   "brightness": 0.564
   },
   {
    "id": 195120,
@@ -8320,7 +10024,13 @@
     "Parkour",
     "Found Family",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#6e0d2c",
+    "#293257",
+    "#f6d5b2"
+   ],
+   "brightness": 0.346
   },
   {
    "id": 125736,
@@ -8348,7 +10058,13 @@
     "Medieval",
     "Primarily Female Cast",
     "Achronological Order"
-   ]
+   ],
+   "palette": [
+    "#e5ceb8",
+    "#738a94",
+    "#d4b9a7"
+   ],
+   "brightness": 0.623
   },
   {
    "id": 18344,
@@ -8377,7 +10093,13 @@
     "Heterosexual",
     "Urban Fantasy",
     "Cohabitation"
-   ]
+   ],
+   "palette": [
+    "#c9b6ad",
+    "#fdefe3",
+    "#d5c5ba"
+   ],
+   "brightness": 0.695
   },
   {
    "id": 89103,
@@ -8405,7 +10127,13 @@
     "Kingdom Management",
     "Medieval",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#30120d",
+    "#4d1812",
+    "#4f2516"
+   ],
+   "brightness": 0.207
   },
   {
    "id": 17706,
@@ -8433,7 +10161,11 @@
     "Psychosexual",
     "Urban",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#888888"
+   ],
+   "brightness": 0.5
   },
   {
    "id": 89221,
@@ -8461,7 +10193,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#f9d8c6",
+    "#f9a8cb",
+    "#884928"
+   ],
+   "brightness": 0.58
   },
   {
    "id": 126378,
@@ -8489,7 +10227,13 @@
     "Male Protagonist",
     "Ensemble Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#14213c",
+    "#101a30",
+    "#4b2c32"
+   ],
+   "brightness": 0.207
   },
   {
    "id": 67321,
@@ -8517,7 +10261,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#f8ceaf",
+    "#fce6d4",
+    "#f9c59b"
+   ],
+   "brightness": 0.757
   },
   {
    "id": 14523,
@@ -8545,7 +10295,13 @@
     "Tsundere",
     "Urban",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#946c2d",
+    "#b38d4b",
+    "#fae7b7"
+   ],
+   "brightness": 0.597
   },
   {
    "id": 137260,
@@ -8574,7 +10330,13 @@
     "Ninja",
     "Samurai",
     "Battle Royale"
-   ]
+   ],
+   "palette": [
+    "#f3ecd0",
+    "#d3ceb2",
+    "#f6d9ab"
+   ],
+   "brightness": 0.743
   },
   {
    "id": 89226,
@@ -8602,7 +10364,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#ae544c",
+    "#8d342d",
+    "#91706c"
+   ],
+   "brightness": 0.437
   },
   {
    "id": 87655,
@@ -8632,7 +10400,13 @@
     "Ensemble Cast",
     "Mythology",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#fdf3cf",
+    "#f6d4ab",
+    "#fbe8b7"
+   ],
+   "brightness": 0.782
   },
   {
    "id": 136844,
@@ -8661,7 +10435,13 @@
     "LGBTQ+ Themes",
     "Primarily Teen Cast",
     "Suicide"
-   ]
+   ],
+   "palette": [
+    "#8d4c33",
+    "#fce8d5",
+    "#4a2e1a"
+   ],
+   "brightness": 0.569
   },
   {
    "id": 51347,
@@ -8691,7 +10471,13 @@
     "Heterosexual",
     "Shounen",
     "Magic"
-   ]
+   ],
+   "palette": [
+    "#4f334c",
+    "#2f1a31",
+    "#3b2339"
+   ],
+   "brightness": 0.395
   },
   {
    "id": 1261,
@@ -8722,7 +10508,13 @@
     "Dystopian",
     "Denpa",
     "Post-Apocalyptic"
-   ]
+   ],
+   "palette": [
+    "#32284c",
+    "#4f283a",
+    "#2b223b"
+   ],
+   "brightness": 0.445
   },
   {
    "id": 10863,
@@ -8752,7 +10544,13 @@
     "Anti-Hero",
     "Historical",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f1d5c5",
+    "#ceb3a9",
+    "#af9691"
+   ],
+   "brightness": 0.579
   },
   {
    "id": 126374,
@@ -8781,7 +10579,13 @@
     "Male Protagonist",
     "School",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#f9ebd5",
+    "#f4cab5",
+    "#52d18b"
+   ],
+   "brightness": 0.719
   },
   {
    "id": 37832,
@@ -8812,7 +10616,13 @@
     "Time Loop",
     "Primarily Teen Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#f4d7ae",
+    "#ebadad",
+    "#d68e8f"
+   ],
+   "brightness": 0.679
   },
   {
    "id": 43815,
@@ -8843,7 +10653,13 @@
     "Royal Affairs",
     "Travel",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#e9d4b2",
+    "#d3b18c",
+    "#efe4cc"
+   ],
+   "brightness": 0.563
   },
   {
    "id": 170266,
@@ -8872,7 +10688,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#cf6b55",
+    "#b14c38",
+    "#b5cace"
+   ],
+   "brightness": 0.542
   },
   {
    "id": 3180,
@@ -8903,7 +10725,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f8e6d5",
+    "#cfb9a8",
+    "#eed9c6"
+   ],
+   "brightness": 0.491
   },
   {
    "id": 284163,
@@ -8932,7 +10760,13 @@
     "Urban",
     "Class Struggle",
     "Gangs"
-   ]
+   ],
+   "palette": [
+    "#dbf5f3",
+    "#bcf1e5",
+    "#e1faf8"
+   ],
+   "brightness": 0.847
   },
   {
    "id": 284158,
@@ -8961,7 +10795,13 @@
     "Male Protagonist",
     "Class Struggle",
     "Gangs"
-   ]
+   ],
+   "palette": [
+    "#b2566a",
+    "#c85c67",
+    "#95526b"
+   ],
+   "brightness": 0.504
   },
   {
    "id": 43814,
@@ -8992,7 +10832,13 @@
     "Royal Affairs",
     "Travel",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#501115",
+    "#330e11",
+    "#fbe8d4"
+   ],
+   "brightness": 0.494
   },
   {
    "id": 127633,
@@ -9023,7 +10869,13 @@
     "Coming of Age",
     "Primarily Female Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#fce7d5",
+    "#eddac9",
+    "#cfb7a8"
+   ],
+   "brightness": 0.686
   },
   {
    "id": 139038,
@@ -9053,7 +10905,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fdeed7",
+    "#f76b6e",
+    "#4c2c29"
+   ],
+   "brightness": 0.436
   },
   {
    "id": 52723,
@@ -9081,7 +10939,13 @@
     "Fake Relationship",
     "Heterosexual",
     "Slapstick"
-   ]
+   ],
+   "palette": [
+    "#fee9d8",
+    "#8d4e34",
+    "#b26c4a"
+   ],
+   "brightness": 0.642
   },
   {
    "id": 144594,
@@ -9110,7 +10974,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#4f3330",
+    "#d7f0ed",
+    "#fee3dc"
+   ],
+   "brightness": 0.515
   },
   {
    "id": 496,
@@ -9138,7 +11008,13 @@
     "Urban Fantasy",
     "Spearplay",
     "Swordplay"
-   ]
+   ],
+   "palette": [
+    "#af8d6c",
+    "#d36a69",
+    "#fae4c7"
+   ],
+   "brightness": 0.471
   },
   {
    "id": 83017,
@@ -9168,7 +11044,13 @@
     "Military",
     "War",
     "Demons"
-   ]
+   ],
+   "palette": [
+    "#edcacb",
+    "#b08eb3",
+    "#714d6f"
+   ],
+   "brightness": 0.487
   },
   {
    "id": 120970,
@@ -9196,7 +11078,13 @@
     "Cute Girls Doing Cute Things",
     "Female Protagonist",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#fce8d7",
+    "#f5cd91",
+    "#efcfb0"
+   ],
+   "brightness": 0.771
   },
   {
    "id": 127445,
@@ -9225,7 +11113,13 @@
     "Shounen",
     "Urban Fantasy",
     "Environmental"
-   ]
+   ],
+   "palette": [
+    "#f3dac7",
+    "#eaceb8",
+    "#b28b74"
+   ],
+   "brightness": 0.638
   },
   {
    "id": 306,
@@ -9256,7 +11150,13 @@
     "Orphan",
     "Super Power",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f9e3d0",
+    "#f4dbc8",
+    "#e6b04d"
+   ],
+   "brightness": 0.451
   },
   {
    "id": 88708,
@@ -9284,7 +11184,13 @@
     "School",
     "Primarily Teen Cast",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#fde5cd",
+    "#8c4d32",
+    "#f7d9c7"
+   ],
+   "brightness": 0.6
   },
   {
    "id": 136069,
@@ -9314,7 +11220,13 @@
     "Primarily Teen Cast",
     "Travel",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#edbc97",
+    "#f4cead",
+    "#f1c19c"
+   ],
+   "brightness": 0.463
   },
   {
    "id": 124696,
@@ -9342,7 +11254,13 @@
     "Tsundere",
     "Episodic",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#ecaf9a",
+    "#02b996",
+    "#cd9487"
+   ],
+   "brightness": 0.432
   },
   {
    "id": 5627,
@@ -9372,7 +11290,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#b16b2c",
+    "#f18a05",
+    "#512e14"
+   ],
+   "brightness": 0.226
   },
   {
    "id": 89199,
@@ -9401,7 +11325,13 @@
     "Male Protagonist",
     "Classic Literature",
     "Yakuza"
-   ]
+   ],
+   "palette": [
+    "#e6d9cd",
+    "#f2e5d9",
+    "#a79889"
+   ],
+   "brightness": 0.483
   },
   {
    "id": 130715,
@@ -9430,7 +11360,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f2cfb3",
+    "#b18d6d",
+    "#8e6d53"
+   ],
+   "brightness": 0.438
   },
   {
    "id": 390,
@@ -9458,7 +11394,13 @@
     "Historical",
     "Shounen",
     "Gore"
-   ]
+   ],
+   "palette": [
+    "#883231",
+    "#c9ac8c",
+    "#4a1915"
+   ],
+   "brightness": 0.333
   },
   {
    "id": 124586,
@@ -9485,7 +11427,13 @@
     "Female Protagonist",
     "Rural",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#6e7492",
+    "#fee6d3",
+    "#8f88a8"
+   ],
+   "brightness": 0.553
   },
   {
    "id": 195116,
@@ -9513,7 +11461,13 @@
     "Parkour",
     "Found Family",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#b1d0f8",
+    "#7275ac",
+    "#6875c9"
+   ],
+   "brightness": 0.641
   },
   {
    "id": 2087,
@@ -9541,7 +11495,13 @@
     "Mythology",
     "Spearplay",
     "Swordplay"
-   ]
+   ],
+   "palette": [
+    "#feb48f",
+    "#fecca9",
+    "#d1eafe"
+   ],
+   "brightness": 0.685
   },
   {
    "id": 123283,
@@ -9570,7 +11530,13 @@
     "Ensemble Cast",
     "Medieval",
     "Orphan"
-   ]
+   ],
+   "palette": [
+    "#feead6",
+    "#90d3db",
+    "#aeb4cd"
+   ],
+   "brightness": 0.804
   },
   {
    "id": 8945,
@@ -9598,7 +11564,13 @@
     "Male Protagonist",
     "Urban Fantasy",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#fbeecf",
+    "#501016",
+    "#902734"
+   ],
+   "brightness": 0.5
   },
   {
    "id": 87287,
@@ -9628,7 +11600,13 @@
     "Military",
     "War",
     "Demons"
-   ]
+   ],
+   "palette": [
+    "#fcf4cf",
+    "#efd3af",
+    "#8f93b2"
+   ],
+   "brightness": 0.633
   },
   {
    "id": 701,
@@ -9657,7 +11635,13 @@
     "Rock Music",
     "Pregnancy",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#fdecd2",
+    "#8d5449",
+    "#6c3633"
+   ],
+   "brightness": 0.723
   },
   {
    "id": 84781,
@@ -9687,7 +11671,13 @@
     "Ensemble Cast",
     "Cultivation",
     "Revenge"
-   ]
+   ],
+   "palette": [
+    "#fcede2",
+    "#f8e7d9",
+    "#b09091"
+   ],
+   "brightness": 0.768
   },
   {
    "id": 8439,
@@ -9717,7 +11707,13 @@
     "Female Protagonist",
     "Ninja",
     "Witch"
-   ]
+   ],
+   "palette": [
+    "#d8cbab",
+    "#fae4cd",
+    "#b5a88d"
+   ],
+   "brightness": 0.718
   },
   {
    "id": 22050,
@@ -9748,7 +11744,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#fcf0d7",
+    "#e39a7a",
+    "#4b2c2d"
+   ],
+   "brightness": 0.602
   },
   {
    "id": 144674,
@@ -9775,7 +11777,13 @@
     "Seinen",
     "Primarily Teen Cast",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#f8e9d6",
+    "#ceab90",
+    "#eed9c9"
+   ],
+   "brightness": 0.77
   },
   {
    "id": 46490,
@@ -9804,7 +11812,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#fdebd0",
+    "#f1e69d",
+    "#746a4f"
+   ],
+   "brightness": 0.73
   },
   {
    "id": 16342,
@@ -9834,7 +11848,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#eed3cb",
+    "#e6b4ac",
+    "#d6968c"
+   ],
+   "brightness": 0.45
   },
   {
    "id": 55147,
@@ -9863,7 +11883,13 @@
     "Guns",
     "Isekai",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#f4cacf",
+    "#fdc6bb",
+    "#efb0b0"
+   ],
+   "brightness": 0.64
   },
   {
    "id": 69407,
@@ -9892,7 +11918,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#f6d2b3",
+    "#fde4cb",
+    "#f4b58e"
+   ],
+   "brightness": 0.707
   },
   {
    "id": 2456,
@@ -9922,7 +11954,11 @@
     "Shapeshifting",
     "Gods",
     "Nudity"
-   ]
+   ],
+   "palette": [
+    "#888888"
+   ],
+   "brightness": 0.5
   },
   {
    "id": 53901,
@@ -9953,7 +11989,13 @@
     "Orphan",
     "Revenge",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#fbcca8",
+    "#2e0e0d",
+    "#fbc39c"
+   ],
+   "brightness": 0.181
   },
   {
    "id": 22052,
@@ -9984,7 +12026,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#fef2e3",
+    "#54322f",
+    "#75a5ec"
+   ],
+   "brightness": 0.725
   },
   {
    "id": 180887,
@@ -10012,7 +12060,13 @@
     "POV",
     "Male Protagonist",
     "Time Loop"
-   ]
+   ],
+   "palette": [
+    "#ac978a",
+    "#9a8476",
+    "#8f786a"
+   ],
+   "brightness": 0.414
   },
   {
    "id": 19,
@@ -10041,7 +12095,13 @@
     "School",
     "Male Harem",
     "Female Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f6d7b9",
+    "#ad2c30",
+    "#cfb18f"
+   ],
+   "brightness": 0.688
   },
   {
    "id": 90181,
@@ -10073,7 +12133,13 @@
     "Witch",
     "Magic",
     "Cult"
-   ]
+   ],
+   "palette": [
+    "#f6e9cd",
+    "#faeae2",
+    "#b38d93"
+   ],
+   "brightness": 0.693
   },
   {
    "id": 138789,
@@ -10101,7 +12167,13 @@
     "Necromancy",
     "Cultivation",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#f3eace",
+    "#6f4e52",
+    "#ebd4ad"
+   ],
+   "brightness": 0.556
   },
   {
    "id": 151486,
@@ -10130,7 +12202,13 @@
     "Detective",
     "Revenge",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#edd06f",
+    "#fce6d5",
+    "#f3ceb3"
+   ],
+   "brightness": 0.684
   },
   {
    "id": 222593,
@@ -10161,7 +12239,13 @@
     "Primarily Teen Cast",
     "Surreal Comedy",
     "Henshin"
-   ]
+   ],
+   "palette": [
+    "#fcefd6",
+    "#ea5715",
+    "#d5cbb5"
+   ],
+   "brightness": 0.684
   },
   {
    "id": 127278,
@@ -10188,7 +12272,13 @@
     "Detective",
     "Conspiracy",
     "Politics"
-   ]
+   ],
+   "palette": [
+    "#f7d7cf",
+    "#fbe5db",
+    "#4d2c55"
+   ],
+   "brightness": 0.608
   },
   {
    "id": 18,
@@ -10217,7 +12307,13 @@
     "School",
     "Male Harem",
     "Female Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fee2d0",
+    "#fbdbc9",
+    "#827cc8"
+   ],
+   "brightness": 0.498
   },
   {
    "id": 4368,
@@ -10245,7 +12341,13 @@
     "Male Protagonist",
     "Urban Fantasy",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#faf3d1",
+    "#f08f6c",
+    "#6f4b38"
+   ],
+   "brightness": 0.526
   },
   {
    "id": 4606,
@@ -10275,7 +12377,13 @@
     "Heterosexual",
     "Primarily Teen Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#eab688",
+    "#914a34",
+    "#372849"
+   ],
+   "brightness": 0.487
   },
   {
    "id": 184311,
@@ -10303,7 +12411,13 @@
     "Medieval",
     "Found Family",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#d6cdab",
+    "#e6d8b2",
+    "#f5e9cb"
+   ],
+   "brightness": 0.635
   },
   {
    "id": 208,
@@ -10333,7 +12447,13 @@
     "Mythology",
     "Coming of Age",
     "Shapeshifting"
-   ]
+   ],
+   "palette": [
+    "#e7cfd1",
+    "#a893ae",
+    "#e4ceee"
+   ],
+   "brightness": 0.833
   },
   {
    "id": 310,
@@ -10361,7 +12481,13 @@
     "School",
     "Primarily Teen Cast",
     "Heterosexual"
-   ]
+   ],
+   "palette": [
+    "#f2d3d0",
+    "#d28d93",
+    "#911537"
+   ],
+   "brightness": 0.558
   },
   {
    "id": 55133,
@@ -10389,7 +12515,13 @@
     "Coming of Age",
     "Bowling",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#faf1d2",
+    "#312816",
+    "#fcf7e2"
+   ],
+   "brightness": 0.346
   },
   {
    "id": 82523,
@@ -10418,7 +12550,13 @@
     "Male Protagonist",
     "Primarily Female Cast",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#fcf1d2",
+    "#f6d0b0",
+    "#f0b092"
+   ],
+   "brightness": 0.608
   },
   {
    "id": 131106,
@@ -10446,7 +12584,13 @@
     "Coming of Age",
     "Male Protagonist",
     "Cohabitation"
-   ]
+   ],
+   "palette": [
+    "#b15868",
+    "#c66b76",
+    "#b86772"
+   ],
+   "brightness": 0.654
   },
   {
    "id": 6977,
@@ -10475,7 +12619,13 @@
     "Heterosexual",
     "Kuudere",
     "Love Triangle"
-   ]
+   ],
+   "palette": [
+    "#fdedd4",
+    "#fef3e1",
+    "#f3d7b2"
+   ],
+   "brightness": 0.498
   },
   {
    "id": 152231,
@@ -10504,7 +12654,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#b16852",
+    "#f6d3b6",
+    "#915747"
+   ],
+   "brightness": 0.457
   },
   {
    "id": 61371,
@@ -10533,7 +12689,13 @@
     "Ensemble Cast",
     "Love Triangle",
     "Work"
-   ]
+   ],
+   "palette": [
+    "#f2d6b8",
+    "#f3d075",
+    "#f6ddc2"
+   ],
+   "brightness": 0.689
   },
   {
    "id": 75284,
@@ -10560,7 +12722,13 @@
     "Nudity",
     "Tsundere",
     "Educational"
-   ]
+   ],
+   "palette": [
+    "#edd2c9",
+    "#cf9792",
+    "#eab2ae"
+   ],
+   "brightness": 0.557
   },
   {
    "id": 5186,
@@ -10589,7 +12757,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Dragons"
-   ]
+   ],
+   "palette": [
+    "#d1ad8f",
+    "#b48e70",
+    "#f8e8d6"
+   ],
+   "brightness": 0.691
   },
   {
    "id": 123213,
@@ -10616,7 +12790,13 @@
     "Survival",
     "Female Harem",
     "Human Experimentation"
-   ]
+   ],
+   "palette": [
+    "#fdecd9",
+    "#fff2e1",
+    "#d1b4b6"
+   ],
+   "brightness": 0.552
   },
   {
    "id": 63845,
@@ -10646,7 +12826,13 @@
     "Memory Manipulation",
     "School",
     "Amnesia"
-   ]
+   ],
+   "palette": [
+    "#d4b3cc",
+    "#4d334e",
+    "#b68eac"
+   ],
+   "brightness": 0.555
   },
   {
    "id": 121514,
@@ -10674,7 +12860,13 @@
     "Urban",
     "Mythology",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f9dac3",
+    "#f2d1ba",
+    "#afaeca"
+   ],
+   "brightness": 0.552
   },
   {
    "id": 423,
@@ -10705,7 +12897,13 @@
     "Gore",
     "Philosophy",
     "Found Family"
-   ]
+   ],
+   "palette": [
+    "#716d51",
+    "#8f7251",
+    "#ad7950"
+   ],
+   "brightness": 0.466
   },
   {
    "id": 1081,
@@ -10733,7 +12931,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#b5ad92",
+    "#932a4c",
+    "#cdc7b0"
+   ],
+   "brightness": 0.455
   },
   {
    "id": 88346,
@@ -10762,7 +12966,13 @@
     "Virginity",
     "Travel",
     "Age Regression"
-   ]
+   ],
+   "palette": [
+    "#fae7cb",
+    "#efd1b6",
+    "#d29889"
+   ],
+   "brightness": 0.641
   },
   {
    "id": 13084,
@@ -10792,7 +13002,13 @@
     "Male Protagonist",
     "Ensemble Cast",
     "Foreign"
-   ]
+   ],
+   "palette": [
+    "#959755",
+    "#f8d2ae",
+    "#a4a664"
+   ],
+   "brightness": 0.519
   },
   {
    "id": 72921,
@@ -10823,7 +13039,13 @@
     "Spearplay",
     "Heterosexual",
     "Super Power"
-   ]
+   ],
+   "palette": [
+    "#fdedd7",
+    "#b28d2d",
+    "#f5cb14"
+   ],
+   "brightness": 0.727
   },
   {
    "id": 81931,
@@ -10852,7 +13074,13 @@
     "Surreal Comedy",
     "Urban Fantasy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#fad9c7",
+    "#fee4d1",
+    "#f9cab9"
+   ],
+   "brightness": 0.388
   },
   {
    "id": 89249,
@@ -10880,7 +13108,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#f1b65a",
+    "#f8ec08",
+    "#a8702d"
+   ],
+   "brightness": 0.509
   },
   {
    "id": 3195,
@@ -10908,7 +13142,13 @@
     "Martial Arts",
     "Philosophy",
     "Primarily Male Cast"
-   ]
+   ],
+   "palette": [
+    "#555570",
+    "#6c6f84",
+    "#63667a"
+   ],
+   "brightness": 0.397
   },
   {
    "id": 3105,
@@ -10937,7 +13177,13 @@
     "Super Power",
     "Dissociative Identities",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#fdefda",
+    "#b11a31",
+    "#91182b"
+   ],
+   "brightness": 0.315
   },
   {
    "id": 425,
@@ -10968,7 +13214,13 @@
     "Philosophy",
     "Travel",
     "Rural"
-   ]
+   ],
+   "palette": [
+    "#e5ae73",
+    "#daa56e",
+    "#f0c690"
+   ],
+   "brightness": 0.679
   },
   {
    "id": 145343,
@@ -10997,7 +13249,13 @@
     "Urban",
     "Ensemble Cast",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#fce6d8",
+    "#f7d8ca",
+    "#fdede2"
+   ],
+   "brightness": 0.597
   },
   {
    "id": 144596,
@@ -11026,7 +13284,13 @@
     "Shapeshifting",
     "Anti-Hero",
     "Body Horror"
-   ]
+   ],
+   "palette": [
+    "#284b54",
+    "#e7d7cc",
+    "#386a6b"
+   ],
+   "brightness": 0.525
   },
   {
    "id": 87886,
@@ -11057,7 +13321,13 @@
     "Philosophy",
     "Yandere",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#f7c5c3",
+    "#c44a4a",
+    "#f4e9dd"
+   ],
+   "brightness": 0.493
   },
   {
    "id": 21928,
@@ -11086,7 +13356,13 @@
     "Male Protagonist",
     "Urban",
     "Criminal Organization"
-   ]
+   ],
+   "palette": [
+    "#f4dccd",
+    "#d0b6ac",
+    "#f8e3d0"
+   ],
+   "brightness": 0.513
   },
   {
    "id": 122064,
@@ -11115,7 +13391,13 @@
     "Battle Royale",
     "Revenge",
     "Death Game"
-   ]
+   ],
+   "palette": [
+    "#324b51",
+    "#4e6b73",
+    "#24393b"
+   ],
+   "brightness": 0.465
   },
   {
    "id": 87511,
@@ -11143,7 +13425,13 @@
     "Class Struggle",
     "Parody",
     "Dystopian"
-   ]
+   ],
+   "palette": [
+    "#f6d9c6",
+    "#f3c8b9",
+    "#fde6d2"
+   ],
+   "brightness": 0.626
   },
   {
    "id": 2754,
@@ -11173,7 +13461,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f0ad93",
+    "#f8c9b1",
+    "#f2b5aa"
+   ],
+   "brightness": 0.647
   },
   {
    "id": 1533,
@@ -11202,7 +13496,13 @@
     "Slapstick",
     "Surreal Comedy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f9edbc",
+    "#fbf1c8",
+    "#475b90"
+   ],
+   "brightness": 0.557
   },
   {
    "id": 122189,
@@ -11230,7 +13530,13 @@
     "Video Games",
     "Work",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#fbd3b4",
+    "#feddc1",
+    "#fee5c8"
+   ],
+   "brightness": 0.659
   },
   {
    "id": 122687,
@@ -11258,7 +13564,13 @@
     "Primarily Teen Cast",
     "Ojou-sama",
     "Poker"
-   ]
+   ],
+   "palette": [
+    "#ffecd2",
+    "#f7cf8d",
+    "#e8b571"
+   ],
+   "brightness": 0.763
   },
   {
    "id": 1080,
@@ -11286,7 +13598,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#8fcef0",
+    "#f3d3ae",
+    "#f2c697"
+   ],
+   "brightness": 0.687
   },
   {
    "id": 127292,
@@ -11314,7 +13632,13 @@
     "Elf",
     "Medieval",
     "Environmental"
-   ]
+   ],
+   "palette": [
+    "#6e91b1",
+    "#d7936b",
+    "#e6b78d"
+   ],
+   "brightness": 0.509
   },
   {
    "id": 209532,
@@ -11343,7 +13667,13 @@
     "Language Barrier",
     "Ensemble Cast",
     "Medieval"
-   ]
+   ],
+   "palette": [
+    "#fbd9b6",
+    "#fde6c8",
+    "#5574b4"
+   ],
+   "brightness": 0.64
   },
   {
    "id": 21173,
@@ -11371,7 +13701,13 @@
     "School",
     "Primarily Teen Cast",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#fad4b1",
+    "#bbe7d0",
+    "#c6efd6"
+   ],
+   "brightness": 0.446
   },
   {
    "id": 141694,
@@ -11402,7 +13738,13 @@
     "Body Horror",
     "Male Protagonist",
     "Super Power"
-   ]
+   ],
+   "palette": [
+    "#d37389",
+    "#2b366c",
+    "#b93859"
+   ],
+   "brightness": 0.499
   },
   {
    "id": 24596,
@@ -11430,7 +13772,13 @@
     "Delinquents",
     "Achronological Order",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#fde7cc",
+    "#b7c8d4",
+    "#a8bac9"
+   ],
+   "brightness": 0.51
   },
   {
    "id": 89223,
@@ -11458,7 +13806,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#17492f",
+    "#748bad",
+    "#143827"
+   ],
+   "brightness": 0.351
   },
   {
    "id": 88576,
@@ -11490,7 +13844,13 @@
     "Witch",
     "Magic",
     "Cult"
-   ]
+   ],
+   "palette": [
+    "#fa89ac",
+    "#d36e8d",
+    "#eb7396"
+   ],
+   "brightness": 0.628
   },
   {
    "id": 128299,
@@ -11520,7 +13880,13 @@
     "Primarily Teen Cast",
     "Crime",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#914f2a",
+    "#f8b48f",
+    "#ce784a"
+   ],
+   "brightness": 0.515
   },
   {
    "id": 36820,
@@ -11547,7 +13913,13 @@
     "Tomboy",
     "Ensemble Cast",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#dcab84",
+    "#966a58",
+    "#e3b18a"
+   ],
+   "brightness": 0.389
   },
   {
    "id": 123328,
@@ -11577,7 +13949,13 @@
     "Female Protagonist",
     "Assassins",
     "Religion"
-   ]
+   ],
+   "palette": [
+    "#fcf3d0",
+    "#6b3130",
+    "#d1b1af"
+   ],
+   "brightness": 0.464
   },
   {
    "id": 63,
@@ -11606,7 +13984,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#f9dbcb",
+    "#fee3d1",
+    "#b08e52"
+   ],
+   "brightness": 0.69
   },
   {
    "id": 260328,
@@ -11633,7 +14017,13 @@
     "Terrorism",
     "Conspiracy",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#f2b7b1",
+    "#45342d",
+    "#e48d94"
+   ],
+   "brightness": 0.535
   },
   {
    "id": 68315,
@@ -11662,7 +14052,13 @@
     "Philosophy",
     "Primarily Adult Cast",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#172931",
+    "#15296f",
+    "#31454f"
+   ],
+   "brightness": 0.348
   },
   {
    "id": 70,
@@ -11691,7 +14087,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#eddbcb",
+    "#f5e5d3",
+    "#901006"
+   ],
+   "brightness": 0.645
   },
   {
    "id": 136843,
@@ -11720,7 +14122,13 @@
     "LGBTQ+ Themes",
     "Primarily Teen Cast",
     "Suicide"
-   ]
+   ],
+   "palette": [
+    "#e8ceb9",
+    "#ebd5c3",
+    "#d6aa95"
+   ],
+   "brightness": 0.547
   },
   {
    "id": 67325,
@@ -11748,7 +14156,13 @@
     "Shounen",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#fcd4b1",
+    "#fee7d2",
+    "#fcc798"
+   ],
+   "brightness": 0.653
   },
   {
    "id": 2751,
@@ -11778,7 +14192,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#fdd1aa",
+    "#eeb58c",
+    "#905030"
+   ],
+   "brightness": 0.632
   },
   {
    "id": 42528,
@@ -11806,7 +14226,13 @@
     "War",
     "Travel",
     "Desert"
-   ]
+   ],
+   "palette": [
+    "#934a4e",
+    "#2b256d",
+    "#cc6d6e"
+   ],
+   "brightness": 0.441
   },
   {
    "id": 124026,
@@ -11834,7 +14260,13 @@
     "Suicide",
     "Male Protagonist",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#a7948f",
+    "#2f3648",
+    "#899cae"
+   ],
+   "brightness": 0.535
   },
   {
    "id": 127596,
@@ -11862,7 +14294,13 @@
     "Teacher",
     "Cohabitation",
     "Female Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f0d4ce",
+    "#31304d",
+    "#6f544a"
+   ],
+   "brightness": 0.476
   },
   {
    "id": 266041,
@@ -11890,7 +14328,13 @@
     "Cute Girls Doing Cute Things",
     "Coming of Age",
     "Hikikomori"
-   ]
+   ],
+   "palette": [
+    "#fa534f",
+    "#f83a32",
+    "#f8b4ad"
+   ],
+   "brightness": 0.65
   },
   {
    "id": 19568,
@@ -11918,7 +14362,13 @@
     "School",
     "Primarily Teen Cast",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#fcf9d4",
+    "#f8d8b3",
+    "#8d6858"
+   ],
+   "brightness": 0.676
   },
   {
    "id": 64,
@@ -11948,7 +14398,13 @@
     "Found Family",
     "Male Protagonist",
     "Ships"
-   ]
+   ],
+   "palette": [
+    "#f7d5a9",
+    "#cb8d73",
+    "#f4c997"
+   ],
+   "brightness": 0.568
   },
   {
    "id": 11804,
@@ -11977,7 +14433,13 @@
     "Shounen",
     "Rehabilitation",
     "Class Struggle"
-   ]
+   ],
+   "palette": [
+    "#d6ac8a",
+    "#b08c6f",
+    "#916d52"
+   ],
+   "brightness": 0.362
   },
   {
    "id": 22369,
@@ -12006,7 +14468,13 @@
     "Memory Manipulation",
     "Boarding School",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#b1acd1",
+    "#c8aaaa",
+    "#d3cce8"
+   ],
+   "brightness": 0.662
   },
   {
    "id": 123527,
@@ -12035,7 +14503,13 @@
     "Cultivation",
     "Urban Fantasy",
     "School"
-   ]
+   ],
+   "palette": [
+    "#e3ab98",
+    "#d08f74",
+    "#310f07"
+   ],
+   "brightness": 0.454
   },
   {
    "id": 136548,
@@ -12065,7 +14539,13 @@
     "Rural",
     "Ensemble Cast",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#dcd6b9",
+    "#fde8d1",
+    "#e1dabd"
+   ],
+   "brightness": 0.747
   },
   {
    "id": 73227,
@@ -12097,7 +14577,13 @@
     "Anti-Hero",
     "Augmented Reality",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#d5c7b9",
+    "#c9b8ab",
+    "#8c776a"
+   ],
+   "brightness": 0.573
   },
   {
    "id": 729,
@@ -12126,7 +14612,13 @@
     "Super Power",
     "Urban Fantasy",
     "Martial Arts"
-   ]
+   ],
+   "palette": [
+    "#f7f6d5",
+    "#b77862",
+    "#b2705a"
+   ],
+   "brightness": 0.382
   },
   {
    "id": 22054,
@@ -12157,7 +14649,13 @@
     "Philosophy",
     "Kuudere",
     "Vampire"
-   ]
+   ],
+   "palette": [
+    "#ebd0d3",
+    "#f1e5d5",
+    "#c7695b"
+   ],
+   "brightness": 0.646
   },
   {
    "id": 89897,
@@ -12185,7 +14683,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#2c0f34",
+    "#f5c8b0",
+    "#2c0f4c"
+   ],
+   "brightness": 0.386
   },
   {
    "id": 123181,
@@ -12213,7 +14717,13 @@
     "Primarily Adult Cast",
     "Seinen",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fdecd9",
+    "#cf712e",
+    "#d48b53"
+   ],
+   "brightness": 0.612
   },
   {
    "id": 251,
@@ -12243,7 +14753,13 @@
     "Primarily Teen Cast",
     "Aliens",
     "Meta"
-   ]
+   ],
+   "palette": [
+    "#331914",
+    "#f2c78f",
+    "#513026"
+   ],
+   "brightness": 0.413
   },
   {
    "id": 90202,
@@ -12274,7 +14790,13 @@
     "Swordplay",
     "Archery",
     "Gods"
-   ]
+   ],
+   "palette": [
+    "#b36714",
+    "#924d0c",
+    "#aa590c"
+   ],
+   "brightness": 0.523
   },
   {
    "id": 128652,
@@ -12304,7 +14826,13 @@
     "Female Protagonist",
     "Urban Fantasy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f2cab1",
+    "#ceae93",
+    "#edae90"
+   ],
+   "brightness": 0.555
   },
   {
    "id": 183884,
@@ -12333,7 +14861,13 @@
     "Urban",
     "Heterosexual",
     "Detective"
-   ]
+   ],
+   "palette": [
+    "#f1a7b7",
+    "#f3b1ca",
+    "#ed94af"
+   ],
+   "brightness": 0.523
   },
   {
    "id": 18769,
@@ -12362,7 +14896,13 @@
     "Ensemble Cast",
     "Super Power",
     "Shounen"
-   ]
+   ],
+   "palette": [
+    "#fbd9ad",
+    "#f2b274",
+    "#2f4f70"
+   ],
+   "brightness": 0.586
   },
   {
    "id": 90225,
@@ -12390,7 +14930,13 @@
     "Boys' Love",
     "Bisexual",
     "Rotoscoping"
-   ]
+   ],
+   "palette": [
+    "#f6d5aa",
+    "#af8f6f",
+    "#d1b28d"
+   ],
+   "brightness": 0.394
   },
   {
    "id": 2707,
@@ -12420,7 +14966,13 @@
     "Cultivation",
     "Aliens",
     "Space"
-   ]
+   ],
+   "palette": [
+    "#254fae",
+    "#174494",
+    "#113d8c"
+   ],
+   "brightness": 0.439
   },
   {
    "id": 15,
@@ -12448,7 +15000,13 @@
     "Coming of Age",
     "Fitness",
     "Heterosexual"
-   ]
+   ],
+   "palette": [
+    "#758d6b",
+    "#8d956d",
+    "#6c7254"
+   ],
+   "brightness": 0.593
   },
   {
    "id": 130713,
@@ -12477,7 +15035,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#ffe6da",
+    "#fbd7c8",
+    "#ffe9e1"
+   ],
+   "brightness": 0.419
   },
   {
    "id": 22370,
@@ -12506,7 +15070,13 @@
     "Memory Manipulation",
     "Boarding School",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fcf6d1",
+    "#2f0d14",
+    "#4c192a"
+   ],
+   "brightness": 0.468
   },
   {
    "id": 81853,
@@ -12536,7 +15106,13 @@
     "Primarily Adult Cast",
     "Episodic",
     "Suicide"
-   ]
+   ],
+   "palette": [
+    "#8d6fb1",
+    "#cab3d6",
+    "#6e55a7"
+   ],
+   "brightness": 0.548
   },
   {
    "id": 48391,
@@ -12564,7 +15140,13 @@
     "Fake Relationship",
     "Heterosexual",
     "Slapstick"
-   ]
+   ],
+   "palette": [
+    "#f9d08e",
+    "#efb174",
+    "#f1b28d"
+   ],
+   "brightness": 0.79
   },
   {
    "id": 8456,
@@ -12594,7 +15176,13 @@
     "Female Protagonist",
     "Ninja",
     "Witch"
-   ]
+   ],
+   "palette": [
+    "#f0d1bb",
+    "#ccaf8f",
+    "#966d66"
+   ],
+   "brightness": 0.764
   },
   {
    "id": 125934,
@@ -12623,7 +15211,13 @@
     "Cultivation",
     "Urban Fantasy",
     "School"
-   ]
+   ],
+   "palette": [
+    "#d1b18a",
+    "#ae9275",
+    "#eac599"
+   ],
+   "brightness": 0.386
   },
   {
    "id": 12323,
@@ -12653,7 +15247,13 @@
     "Seinen",
     "Aliens",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#fcd28f",
+    "#fdf9cf",
+    "#fde9b1"
+   ],
+   "brightness": 0.446
   },
   {
    "id": 128036,
@@ -12682,7 +15282,13 @@
     "Shapeshifting",
     "Economics",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#fbd2cc",
+    "#f7b3ae",
+    "#f48e92"
+   ],
+   "brightness": 0.644
   },
   {
    "id": 2093,
@@ -12712,7 +15318,13 @@
     "Cultivation",
     "Aliens",
     "Space"
-   ]
+   ],
+   "palette": [
+    "#fbe7d8",
+    "#d14e09",
+    "#f1dbcb"
+   ],
+   "brightness": 0.473
   },
   {
    "id": 144665,
@@ -12740,7 +15352,13 @@
     "Female Harem",
     "Heterosexual",
     "Slapstick"
-   ]
+   ],
+   "palette": [
+    "#f78f90",
+    "#fbaeac",
+    "#fcd1ca"
+   ],
+   "brightness": 0.656
   },
   {
    "id": 89835,
@@ -12770,7 +15388,13 @@
     "Heterosexual",
     "Primarily Adult Cast",
     "Anti-Hero"
-   ]
+   ],
+   "palette": [
+    "#d3b4ac",
+    "#ddc2ba",
+    "#d0b3ca"
+   ],
+   "brightness": 0.652
   },
   {
    "id": 155702,
@@ -12798,7 +15422,13 @@
     "School",
     "Tomboy",
     "Episodic"
-   ]
+   ],
+   "palette": [
+    "#eeb6ac",
+    "#efd8cb",
+    "#e29878"
+   ],
+   "brightness": 0.734
   },
   {
    "id": 218266,
@@ -12827,7 +15457,13 @@
     "Detective",
     "Shounen",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#e8c3d3",
+    "#e5bbce",
+    "#dab6c6"
+   ],
+   "brightness": 0.561
   },
   {
    "id": 558,
@@ -12857,7 +15493,13 @@
     "Revenge",
     "Super Power",
     "Conspiracy"
-   ]
+   ],
+   "palette": [
+    "#331614",
+    "#305467",
+    "#752416"
+   ],
+   "brightness": 0.311
   },
   {
    "id": 62481,
@@ -12886,7 +15528,13 @@
     "Primarily Teen Cast",
     "Post-Apocalyptic",
     "Survival"
-   ]
+   ],
+   "palette": [
+    "#e8c971",
+    "#714f34",
+    "#ecd58b"
+   ],
+   "brightness": 0.653
   },
   {
    "id": 17440,
@@ -12914,7 +15562,13 @@
     "Male Protagonist",
     "Philosophy",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#eecfab",
+    "#cfb493",
+    "#a79073"
+   ],
+   "brightness": 0.586
   },
   {
    "id": 11919,
@@ -12944,7 +15598,13 @@
     "Female Protagonist",
     "Ninja",
     "Witch"
-   ]
+   ],
+   "palette": [
+    "#fbc8cd",
+    "#b18f8d",
+    "#ecb2b7"
+   ],
+   "brightness": 0.731
   },
   {
    "id": 4092,
@@ -12974,7 +15634,13 @@
     "Shapeshifting",
     "Gods",
     "Nudity"
-   ]
+   ],
+   "palette": [
+    "#dae4ce",
+    "#d2dcc6",
+    "#e3edd7"
+   ],
+   "brightness": 0.745
   },
   {
    "id": 7,
@@ -13002,7 +15668,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#fcd6a5",
+    "#fce9db",
+    "#b26b2d"
+   ],
+   "brightness": 0.624
   },
   {
    "id": 199892,
@@ -13034,7 +15706,13 @@
     "Coming of Age",
     "Primarily Teen Cast",
     "Denpa"
-   ]
+   ],
+   "palette": [
+    "#fedbca",
+    "#17162f",
+    "#fdd811"
+   ],
+   "brightness": 0.415
   },
   {
    "id": 130751,
@@ -13063,7 +15741,13 @@
     "Demons",
     "Cult",
     "Urban"
-   ]
+   ],
+   "palette": [
+    "#768691",
+    "#fce6da",
+    "#f4d7cb"
+   ],
+   "brightness": 0.369
   },
   {
    "id": 24595,
@@ -13091,7 +15775,13 @@
     "Delinquents",
     "Achronological Order",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#f9d7b8",
+    "#8c6e4f",
+    "#e4d485"
+   ],
+   "brightness": 0.58
   },
   {
    "id": 19567,
@@ -13119,7 +15809,13 @@
     "School",
     "Primarily Teen Cast",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#fccfaf",
+    "#724a25",
+    "#cbb202"
+   ],
+   "brightness": 0.574
   },
   {
    "id": 217334,
@@ -13147,7 +15843,13 @@
     "Male Protagonist",
     "School Club",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#f3d2c9",
+    "#cfb0b1",
+    "#ecb7ac"
+   ],
+   "brightness": 0.741
   },
   {
    "id": 245,
@@ -13175,7 +15877,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#f9d7a8",
+    "#faefcf",
+    "#add0d2"
+   ],
+   "brightness": 0.529
   },
   {
    "id": 12531,
@@ -13205,7 +15913,13 @@
     "Anti-Hero",
     "Historical",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f5e7d7",
+    "#ecd7ca",
+    "#768995"
+   ],
+   "brightness": 0.614
   },
   {
    "id": 2650,
@@ -13234,7 +15948,13 @@
     "Slapstick",
     "Surreal Comedy",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#ebd8b0",
+    "#948c74",
+    "#ae774a"
+   ],
+   "brightness": 0.358
   },
   {
    "id": 3293,
@@ -13263,7 +15983,13 @@
     "Politics",
     "Male Protagonist",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#fde8cc",
+    "#ecce7b",
+    "#c7ae8f"
+   ],
+   "brightness": 0.709
   },
   {
    "id": 7156,
@@ -13289,7 +16015,13 @@
     "Meta",
     "Primarily Female Cast",
     "Suicide"
-   ]
+   ],
+   "palette": [
+    "#0591ad",
+    "#aed6d3",
+    "#92cfcd"
+   ],
+   "brightness": 0.736
   },
   {
    "id": 88860,
@@ -13319,7 +16051,13 @@
     "Ensemble Cast",
     "Mythology",
     "Primarily Female Cast"
-   ]
+   ],
+   "palette": [
+    "#fce8d5",
+    "#b1905c",
+    "#172935"
+   ],
+   "brightness": 0.654
   },
   {
    "id": 4839,
@@ -13348,7 +16086,13 @@
     "Male Protagonist",
     "Female Protagonist",
     "Dragons"
-   ]
+   ],
+   "palette": [
+    "#efb293",
+    "#f6caac",
+    "#322849"
+   ],
+   "brightness": 0.328
   },
   {
    "id": 57499,
@@ -13379,7 +16123,13 @@
     "Incest",
     "Female Harem",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#f2e5d4",
+    "#2e97a9",
+    "#f9905c"
+   ],
+   "brightness": 0.684
   },
   {
    "id": 88748,
@@ -13407,7 +16157,13 @@
     "Meta",
     "Primarily Female Cast",
     "Writing"
-   ]
+   ],
+   "palette": [
+    "#724b69",
+    "#533350",
+    "#f7d3d0"
+   ],
+   "brightness": 0.612
   },
   {
    "id": 1795,
@@ -13435,7 +16191,13 @@
     "Robots",
     "Seinen",
     "Police"
-   ]
+   ],
+   "palette": [
+    "#fae6cc",
+    "#303a6a",
+    "#886f74"
+   ],
+   "brightness": 0.384
   },
   {
    "id": 41026,
@@ -13463,7 +16225,13 @@
     "Love Triangle",
     "Primarily Teen Cast",
     "Estranged Family"
-   ]
+   ],
+   "palette": [
+    "#edd0cb",
+    "#edb4ae",
+    "#cd948d"
+   ],
+   "brightness": 0.64
   },
   {
    "id": 83019,
@@ -13492,7 +16260,13 @@
     "Coming of Age",
     "Primarily Teen Cast",
     "School"
-   ]
+   ],
+   "palette": [
+    "#fddac6",
+    "#92506a",
+    "#f0ccb7"
+   ],
+   "brightness": 0.559
   },
   {
    "id": 83799,
@@ -13520,7 +16294,13 @@
     "Class Struggle",
     "Dystopian",
     "Parody"
-   ]
+   ],
+   "palette": [
+    "#f7e8d6",
+    "#2e3647",
+    "#262e3c"
+   ],
+   "brightness": 0.494
   },
   {
    "id": 369,
@@ -13550,7 +16330,13 @@
     "Mythology",
     "Coming of Age",
     "Shapeshifting"
-   ]
+   ],
+   "palette": [
+    "#ffe2c2",
+    "#c6ca6e",
+    "#f4d6b8"
+   ],
+   "brightness": 0.595
   },
   {
    "id": 4604,
@@ -13580,7 +16366,13 @@
     "Heterosexual",
     "Primarily Teen Cast",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#f1d1b8",
+    "#d2dd97",
+    "#4e2e37"
+   ],
+   "brightness": 0.443
   },
   {
    "id": 89197,
@@ -13609,7 +16401,13 @@
     "Male Protagonist",
     "Classic Literature",
     "Yakuza"
-   ]
+   ],
+   "palette": [
+    "#faf3cc",
+    "#b5ae8d",
+    "#d4ccb1"
+   ],
+   "brightness": 0.681
   },
   {
    "id": 183,
@@ -13636,7 +16434,13 @@
     "Cute Girls Doing Cute Things",
     "Ensemble Cast",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#fcddd4",
+    "#ffe3d9",
+    "#baa29e"
+   ],
+   "brightness": 0.456
   },
   {
    "id": 2063,
@@ -13667,7 +16471,13 @@
     "Dystopian",
     "Space Opera",
     "Philosophy"
-   ]
+   ],
+   "palette": [
+    "#b61629",
+    "#facfa8",
+    "#f8d7e4"
+   ],
+   "brightness": 0.454
   },
   {
    "id": 158386,
@@ -13696,7 +16506,13 @@
     "Primarily Male Cast",
     "Urban",
     "Artificial Intelligence"
-   ]
+   ],
+   "palette": [
+    "#f3dbc4",
+    "#02b3a9",
+    "#e7cfb9"
+   ],
+   "brightness": 0.699
   },
   {
    "id": 158734,
@@ -13724,7 +16540,13 @@
     "Fitness",
     "Slapstick",
     "Primarily Teen Cast"
-   ]
+   ],
+   "palette": [
+    "#ebc8b8",
+    "#192631",
+    "#f2d6c8"
+   ],
+   "brightness": 0.424
   },
   {
    "id": 127118,
@@ -13752,7 +16574,13 @@
     "Primarily Teen Cast",
     "Classic Literature",
     "Rehabilitation"
-   ]
+   ],
+   "palette": [
+    "#532525",
+    "#6e332c",
+    "#fceada"
+   ],
+   "brightness": 0.466
   },
   {
    "id": 129841,
@@ -13780,7 +16608,13 @@
     "Memory Manipulation",
     "Primarily Female Cast",
     "Coming of Age"
-   ]
+   ],
+   "palette": [
+    "#fae7d5",
+    "#f2dac7",
+    "#342f4c"
+   ],
+   "brightness": 0.515
   },
   {
    "id": 209903,
@@ -13810,7 +16644,13 @@
     "Primarily Adult Cast",
     "Guns",
     "Terrorism"
-   ]
+   ],
+   "palette": [
+    "#afd3f6",
+    "#fae8e3",
+    "#90aed0"
+   ],
+   "brightness": 0.728
   },
   {
    "id": 16021,
@@ -13839,7 +16679,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#511819",
+    "#6d1b1d",
+    "#8f2a25"
+   ],
+   "brightness": 0.355
   },
   {
    "id": 914,
@@ -13869,7 +16715,13 @@
     "Cultivation",
     "Aliens",
     "Anthropomorphism"
-   ]
+   ],
+   "palette": [
+    "#6cb005",
+    "#498706",
+    "#3a700a"
+   ],
+   "brightness": 0.414
   },
   {
    "id": 90224,
@@ -13897,7 +16749,13 @@
     "Boys' Love",
     "Bisexual",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#e9d7b7",
+    "#d8caab",
+    "#f4e6ce"
+   ],
+   "brightness": 0.738
   },
   {
    "id": 126458,
@@ -13925,7 +16783,13 @@
     "Male Protagonist",
     "Nudity",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#300e0e",
+    "#4d1113",
+    "#30364f"
+   ],
+   "brightness": 0.245
   },
   {
    "id": 89898,
@@ -13953,7 +16817,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#4c342b",
+    "#f8d490",
+    "#6f4c36"
+   ],
+   "brightness": 0.246
   },
   {
    "id": 123182,
@@ -13981,7 +16851,13 @@
     "Primarily Adult Cast",
     "Seinen",
     "Male Protagonist"
-   ]
+   ],
+   "palette": [
+    "#fae8d3",
+    "#f2cfb0",
+    "#ce8f6c"
+   ],
+   "brightness": 0.572
   },
   {
    "id": 123528,
@@ -14009,7 +16885,13 @@
     "School",
     "Aromantic",
     "Unrequited Love"
-   ]
+   ],
+   "palette": [
+    "#ae7274",
+    "#fdebd9",
+    "#f1aa93"
+   ],
+   "brightness": 0.708
   },
   {
    "id": 506,
@@ -14038,7 +16920,13 @@
     "Death Game",
     "Urban Fantasy",
     "Primarily Adult Cast"
-   ]
+   ],
+   "palette": [
+    "#d6b8a2",
+    "#6e5149",
+    "#041836"
+   ],
+   "brightness": 0.36
   },
   {
    "id": 273105,
@@ -14067,7 +16955,13 @@
     "Gyaru",
     "Cohabitation",
     "School"
-   ]
+   ],
+   "palette": [
+    "#91514c",
+    "#f9d4c9",
+    "#2d2c6e"
+   ],
+   "brightness": 0.478
   },
   {
    "id": 14941,
@@ -14095,7 +16989,13 @@
     "Tsundere",
     "Urban",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#4f2c29",
+    "#6d3731",
+    "#fbecb0"
+   ],
+   "brightness": 0.458
   },
   {
    "id": 73205,
@@ -14127,7 +17027,13 @@
     "Anti-Hero",
     "Augmented Reality",
     "Crime"
-   ]
+   ],
+   "palette": [
+    "#edd3cc",
+    "#d4b4ab",
+    "#b19389"
+   ],
+   "brightness": 0.452
   },
   {
    "id": 75450,
@@ -14156,7 +17062,13 @@
     "Isekai",
     "Primarily Female Cast",
     "Medieval"
-   ]
+   ],
+   "palette": [
+    "#516f97",
+    "#f8f3cc",
+    "#5879a4"
+   ],
+   "brightness": 0.617
   },
   {
    "id": 123284,
@@ -14185,7 +17097,13 @@
     "Ensemble Cast",
     "Medieval",
     "Orphan"
-   ]
+   ],
+   "palette": [
+    "#73668e",
+    "#f6b089",
+    "#545670"
+   ],
+   "brightness": 0.384
   },
   {
    "id": 10285,
@@ -14215,7 +17133,13 @@
     "Butler",
     "Detective",
     "Gore"
-   ]
+   ],
+   "palette": [
+    "#fceccf",
+    "#ac6e4f",
+    "#8c5139"
+   ],
+   "brightness": 0.545
   },
   {
    "id": 125661,
@@ -14244,7 +17168,13 @@
     "Primarily Teen Cast",
     "Kaiju",
     "Dystopian"
-   ]
+   ],
+   "palette": [
+    "#564935",
+    "#4a392e",
+    "#6d5844"
+   ],
+   "brightness": 0.437
   },
   {
    "id": 218267,
@@ -14273,7 +17203,13 @@
     "Detective",
     "Shounen",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#e7c3d3",
+    "#b1b2cf",
+    "#e6bbce"
+   ],
+   "brightness": 0.733
   },
   {
    "id": 126371,
@@ -14302,7 +17238,13 @@
     "Male Protagonist",
     "School",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#fbefb0",
+    "#fbeed2",
+    "#f2ceb6"
+   ],
+   "brightness": 0.857
   },
   {
    "id": 41402,
@@ -14332,7 +17274,13 @@
     "Urban Fantasy",
     "Curses",
     "Kuudere"
-   ]
+   ],
+   "palette": [
+    "#48272b",
+    "#f2d2b7",
+    "#3c2327"
+   ],
+   "brightness": 0.207
   },
   {
    "id": 89241,
@@ -14360,7 +17308,13 @@
     "Crime",
     "School",
     "Rescue"
-   ]
+   ],
+   "palette": [
+    "#faddc5",
+    "#ffe5cd",
+    "#c72d33"
+   ],
+   "brightness": 0.463
   },
   {
    "id": 127613,
@@ -14391,7 +17345,13 @@
     "Coming of Age",
     "Primarily Female Cast",
     "Memory Manipulation"
-   ]
+   ],
+   "palette": [
+    "#faead6",
+    "#b29688",
+    "#cbab99"
+   ],
+   "brightness": 0.71
   },
   {
    "id": 195602,
@@ -14418,7 +17378,13 @@
     "Food",
     "Kuudere",
     "Iyashikei"
-   ]
+   ],
+   "palette": [
+    "#f0cdb5",
+    "#f4d3cc",
+    "#fce6d5"
+   ],
+   "brightness": 0.789
   },
   {
    "id": 133678,
@@ -14447,7 +17413,13 @@
     "Primarily Teen Cast",
     "Female Protagonist",
     "Gyaru"
-   ]
+   ],
+   "palette": [
+    "#fceadb",
+    "#fef0e1",
+    "#f3d8c7"
+   ],
+   "brightness": 0.873
   },
   {
    "id": 268677,
@@ -14475,7 +17447,13 @@
     "Iyashikei",
     "Coming of Age",
     "Food"
-   ]
+   ],
+   "palette": [
+    "#ccac95",
+    "#d0b8a8",
+    "#d8c5b0"
+   ],
+   "brightness": 0.687
   },
   {
    "id": 907,
@@ -14503,7 +17481,13 @@
     "Exorcism",
     "Demons",
     "Urban Fantasy"
-   ]
+   ],
+   "palette": [
+    "#fef0da",
+    "#e9aa93",
+    "#f8adb1"
+   ],
+   "brightness": 0.524
   },
   {
    "id": 16,
@@ -14532,7 +17516,13 @@
     "Philosophy",
     "Found Family",
     "Travel"
-   ]
+   ],
+   "palette": [
+    "#f5b364",
+    "#ef5845",
+    "#f2ae5d"
+   ],
+   "brightness": 0.621
   },
   {
    "id": 2169,
@@ -14559,7 +17549,13 @@
     "School",
     "Primarily Teen Cast",
     "Ensemble Cast"
-   ]
+   ],
+   "palette": [
+    "#fee7cb",
+    "#4876d5",
+    "#3c6cd0"
+   ],
+   "brightness": 0.615
   }
  ]
 }
