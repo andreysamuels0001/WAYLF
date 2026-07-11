@@ -117,9 +117,9 @@ export default function Home() {
             <div className="relative h-[420px] sm:h-[500px]">
               {hero.map(({ character, rank, rarity }, index) => {
                 const layout = [
-                  { place: "hidden sm:block left-[16%]", y: 36, r: -13, z: 10 },
+                  { place: "hidden sm:block left-[24%]", y: 34, r: -12, z: 10 },
                   { place: "left-1/2", y: 0, r: 0, z: 30 },
-                  { place: "hidden sm:block left-[84%]", y: 36, r: 13, z: 20 },
+                  { place: "hidden sm:block left-[76%]", y: 34, r: 12, z: 20 },
                 ][index];
                 return (
                   <div
