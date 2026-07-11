@@ -202,6 +202,7 @@ export function matchCharacter(answers: QuizAnswers): MatchResult {
   const tagTotal = [...tagWeights.values()].reduce((a, b) => a + b, 0) || 1;
 
   let best: { character: DeckCharacter; score: number; rank: number } | null = null;
+  const scores: number[] = [];
 
   DECK.forEach((character, rank) => {
     let genreScore = 0;
@@ -238,13 +239,32 @@ export function matchCharacter(answers: QuizAnswers): MatchResult {
       // lowest index, which would make the same few characters dominate.
       rng.float() * 0.12;
 
+    scores.push(score);
     if (!best || score > best.score) best = { character, score, rank };
   });
 
   const winner = best!;
 
-  // How strongly the answers pointed here, 0-100.
-  const affinity = Math.round(Math.min(99, 54 + winner.score * 9));
+  /*
+   * Affinity measures how decisively the winner beat the *contenders*, not the
+   * whole deck.
+   *
+   * Two earlier formulas pinned at 99% for every result. An absolute score
+   * saturates immediately, and comparing against the mean does not help either,
+   * because the floor is full of characters with zero overlap — that stretches
+   * the denominator so far that every winner looks equally dominant. Measuring
+   * the gap over the 90th percentile compares like with like: how much better
+   * than the next-best handful of candidates is this one?
+   */
+  const sorted = [...scores].sort((a, b) => a - b);
+  const percentile = (p: number) => sorted[Math.min(sorted.length - 1, Math.floor(sorted.length * p))];
+  const p90 = percentile(0.9);
+  const p50 = percentile(0.5);
+  const headroom = p90 - p50 || 1;
+  // The multiplier is tuned so a typical margin lands in the high seventies and
+  // only a genuinely dominant match reaches the nineties.
+  const margin = (winner.score - p90) / headroom;
+  const affinity = Math.round(Math.max(62, Math.min(97, 62 + margin * 9.5)));
 
   const topGenres = [...genreWeights.entries()]
     .sort((a, b) => b[1] - a[1])
