@@ -47,17 +47,48 @@ query ($page: Int, $perPage: Int) {
   }
 }`;
 
-/** AniList descriptions carry markdown and spoiler markup. */
+/**
+ * AniList descriptions carry markdown, spoiler markup, hard line breaks, inline
+ * links and a leading block of "Height: … Family: …" spec lines.
+ *
+ * Link handling matters most: without it, cards render raw
+ * `[nine-tailed demon fox](https://anilist.co/character/7407)` in the body text.
+ */
 function cleanDescription(raw) {
   if (!raw) return "";
-  return raw
+
+  let text = raw
     .replace(/~!.*?!~/gs, "")
-    .replace(/<br\s*\/?>/gi, " ")
+    .replace(/<br\s*\/?>/gi, "\n")
     .replace(/<[^>]+>/g, "")
-    .replace(/__|\*\*|~~|\*/g, "")
-    .replace(/\s+/g, " ")
-    .trim()
-    .slice(0, 420);
+    // [label](url) -> label, then any bare URLs left behind.
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/__|\*\*|~~|\*/g, "");
+
+  /*
+   * Drop the leading spec block so the blurb starts at actual prose.
+   *
+   * AniList formats these as `__Height:__ 190 cm (6'3")` on their own lines, so
+   * after the markdown strip above each is a single line of `Label: value`.
+   * The value pattern has to allow spaces, digits, quotes and brackets — an
+   * earlier `\S{0,40}` version matched nothing, because every real value
+   * contains a space.
+   */
+  const SPEC_LINE = /^[A-Z][A-Za-z /'-]{0,24}:\s*[^.!?]{0,60}$/;
+  const lines = text
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .filter((line) => !SPEC_LINE.test(line));
+
+  text = lines.join(" ").replace(/\s+/g, " ").trim();
+  if (text.length <= 420) return text;
+
+  // Cut on a sentence boundary rather than mid-word.
+  const clipped = text.slice(0, 420);
+  const lastStop = clipped.lastIndexOf(". ");
+  return (lastStop > 220 ? clipped.slice(0, lastStop + 1) : `${clipped.trimEnd()}…`).trim();
 }
 
 /**
