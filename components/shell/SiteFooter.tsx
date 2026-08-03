@@ -1,6 +1,9 @@
 import Link from "next/link";
 import { Logo } from "./Logo";
 
+/** The deck's three largest genres. Deep links into the filtered deck. */
+const FOOTER_GENRES = ["Action", "Drama", "Comedy"] as const;
+
 export function SiteFooter() {
   return (
     <footer className="border-t border-line bg-abyss/60">
@@ -42,7 +45,16 @@ export function SiteFooter() {
                 Genres
               </h2>
               <ul className="mt-3 space-y-2 text-sm">
-                <li className="text-ink-faint">Coming soon</li>
+                {FOOTER_GENRES.map((genre) => (
+                  <li key={genre}>
+                    <Link
+                      href={`/roster?genre=${encodeURIComponent(genre)}`}
+                      className="text-ink-muted transition-colors hover:text-ink"
+                    >
+                      {genre}
+                    </Link>
+                  </li>
+                ))}
               </ul>
             </div>
             <div className="col-span-2 sm:col-span-1">
