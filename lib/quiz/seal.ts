@@ -21,7 +21,7 @@ const ALGORITHM = "aes-256-gcm";
 const IV_BYTES = 12;
 const TAG_BYTES = 16;
 
-const DEV_SECRET = "animaforge-development-secret-do-not-use-in-production";
+const DEV_SECRET = "waylf-development-secret-do-not-use-in-production";
 let warned = false;
 
 function secret(): string {
@@ -40,7 +40,7 @@ function secret(): string {
 
 function key(): Buffer {
   // scrypt stretches an arbitrary passphrase into a real 32-byte key.
-  return scryptSync(secret(), "animaforge.quiz.v1", 32);
+  return scryptSync(secret(), "waylf.quiz.v1", 32);
 }
 
 export function seal(payload: unknown): string {

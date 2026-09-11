@@ -12,8 +12,8 @@ export function SiteFooter() {
           <div className="max-w-sm">
             <Logo />
             <p className="mt-4 text-sm leading-relaxed text-ink-muted">
-              Sixteen questions about how you actually are, matched against the 500
-              most-loved characters in anime.
+              Who Are You Looking For. Sixteen questions about how you actually are,
+              matched against the 500 most-loved characters in anime.
             </p>
           </div>
 
@@ -71,7 +71,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-10 flex flex-col gap-3 border-t border-line pt-6 text-xs text-ink-faint sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} AnimaForge.</p>
+          <p>© {new Date().getFullYear()} WAYLF — Who Are You Looking For.</p>
           <p className="font-mono">Data via AniList · no account · instant</p>
         </div>
       </div>

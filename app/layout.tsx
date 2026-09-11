@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "AnimaForge — Anime Character Quiz",
-    template: "%s · AnimaForge",
+    default: "WAYLF — Who Are You Looking For",
+    template: "%s · WAYLF",
   },
   description:
     "Sixteen questions about your habits, instincts and colours. Matched against the 500 most-loved characters in anime, revealed as a premium card.",
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     "anime deck",
   ],
   openGraph: {
-    title: "AnimaForge — Anime Character Quiz",
+    title: "WAYLF — Who Are You Looking For",
     description:
       "Answer sixteen questions. Get matched to one of the 500 most-loved characters in anime, revealed as a premium card.",
     type: "website",

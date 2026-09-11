@@ -77,9 +77,9 @@ export default function Home() {
             </p>
 
             <h1 className="mt-6 font-display text-[2.6rem] font-extrabold leading-[1.03] tracking-tight text-balance text-ink sm:text-6xl">
-              Answer 16 questions.
+              Who are you
               <span className="block bg-gradient-to-r from-flare via-rose to-violet bg-clip-text text-transparent">
-                Find your character.
+                looking for?
               </span>
             </h1>
 
@@ -241,7 +241,7 @@ export default function Home() {
           />
           <div className="relative">
             <h2 className="font-display text-3xl font-extrabold tracking-tight text-balance text-ink sm:text-4xl">
-Which one are you?
+So — who are you looking for?
             </h2>
             <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-ink-muted">
               {DECK.length} characters. Sixteen questions. About ninety seconds.

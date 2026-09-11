@@ -340,9 +340,9 @@ function Intro({ onStart }: { onStart: () => void }) {
       </p>
 
       <h1 className="mt-6 font-display text-4xl font-extrabold leading-[1.05] tracking-tight text-balance text-ink sm:text-5xl">
-        Answer honestly.
+        Who are you
         <span className="block bg-gradient-to-r from-flare via-rose to-violet bg-clip-text text-transparent">
-          Find your character.
+          looking for?
         </span>
       </h1>
 

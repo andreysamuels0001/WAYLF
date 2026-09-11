@@ -11,8 +11,8 @@ import { characterById, type DeckCharacter } from "./deck";
  * later `npm run deck` rather than preserving stale metadata.
  */
 
-const STORAGE_KEY = "animaforge.saved.v2";
-const EVENT = "animaforge:saved";
+const STORAGE_KEY = "waylf.saved.v1";
+const EVENT = "waylf:saved";
 
 interface StoredEntry {
   id: number;
